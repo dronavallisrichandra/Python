@@ -1,0 +1,64 @@
+{% extends 'base2.html' %}
+{% load static %}
+{% block content %} 
+
+<main>
+
+    <div class="row">
+        <div class="col-12">
+            <h2 class="contact-title">Get in Touch</h2>
+        </div>
+        <div class="col-lg-2 ">
+           
+        </div>
+        <div class="col-lg-8">
+            <main id="main">
+
+                <!-- ======= About Section ======-->
+                <section id="about" class="about">
+                  <div class="container">
+                    <br><br>
+                     <h2 style="text-align:center">Display Profile</h2>
+                      <br><br>
+                     <table align="center">
+                        <tr>
+                            <th>
+                                Experience:
+                            </th>
+                            <th>
+                                {{upload_form.experience}}
+                            </th>
+                        </tr>
+                        <tr>
+                            <th>
+                                Education:
+                            </th>
+                            <th>
+                                {{upload_form.education}}
+                            </th>
+                        </tr>
+                        <tr>
+                            <th>
+                                Job Role:
+                            </th>
+                            <th>
+                                {{upload_form.job_role}}
+                            </th>
+                        </tr>
+                     </table>
+                     <br>
+                     <br>
+                  </div>
+                </section><!-- End About Section -->
+            
+              </main><!-- End #main -->
+        </div>
+        <div class="col-lg-2 ">
+           
+        </div>
+    </div>
+</div>
+</section>
+</main>
+
+{% endblock content %}

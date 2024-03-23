@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %} 
+<br>
+<main id="main">
+
+    <!-- ======= About Section ======-->
+    <section id="about" class="about">
+        
+      <div class="container" style="text-align: center;">
+        <br><br><br>
+        
+         <h1>Tech User Register</h1>
+	<form method = 'POST' enctype="multipart/form-data">
+		{% csrf_token %}
+		<table align="center" class = 'w-50 table table-light' style="border-radius:10px;background-color:#FFFF99;">
+			{% for field in upload_form %}
+			<tr>
+				<th>{{field.label}}</th>
+				<td>{{ field }}</td>
+			</tr> 
+			{% endfor %}
+		</table>
+		<button type="submit" class="btn btn-lg btn-warning">Submit</button>
+	</form>
+
+      </div>
+    </section><!-- End About Section -->
+
+    
+   
+  </main><!-- End #main -->
+
+
+
+{% endblock content %}

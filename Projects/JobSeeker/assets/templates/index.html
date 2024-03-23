@@ -1,0 +1,77 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %} 
+
+<main>
+
+         
+    <!-- slider Area Start-->
+    <div class="slider-area ">
+        <!-- Mobile Menu -->
+        <div class="slider-active">
+            <div class="single-slider slider-height d-flex align-items-center" style="background-image:url({% static 'assets/img/hero/h1_hero.jpg' %})">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-9 col-md-10">
+                            <div class="hero__caption">
+                                <h1>Find the Write Job for your carrer</h1>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Search Box -->
+                    <div class="row">
+                        <div class="col-xl-8">
+                            <!-- form -->
+                            <form class="search-box" method="post">
+                                {% csrf_token %}
+                                <div class="input-form">
+                                    <input type="text" name="job" placeholder="Enter Job Tittle" required>
+                                </div>
+                                
+                                <div class="search-form">
+                                    <Button type="submit" class="btn btn-primary">Find job</Button>
+                                </div>	
+                            </form>	
+                        </div>
+                        <form method="POST">
+                            {% csrf_token %}
+                            <table class="table">
+                                <thead>
+                                  <tr>
+                                    <th>ID</th>
+                                    <th>Job Title</th>
+                                    <th>Description</th>
+                                    <th>Location</th>
+                                    <th>Salary Package</th>
+                                    <th>Post Date</th>
+                                    
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                {% for v in shelf %}
+                                  <tr>
+                                    <td>{{v.id}}</td>
+                                    <td>{{v.JobTitle}}</td>
+                                    <td>{{v.Description}}</td>
+                                    <td>{{v.location}}</td>
+                                    <td>{{v.salary_package}}</td>
+                                    <td>{{v.PostDate}}</td>                    
+                                 
+                                  </tr>
+                                {% endfor %}
+                                 </tbody>
+                              </table>
+                            
+                
+                            </form></main>
+                
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- slider Area End-->
+
+
+
+{% endblock content %}

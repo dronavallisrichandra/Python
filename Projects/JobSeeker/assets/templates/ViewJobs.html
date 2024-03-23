@@ -1,0 +1,48 @@
+{% extends 'base2.html' %}
+{% load static %}
+{% block content %} 
+
+<main id="main">
+    <div class="container">
+        
+    
+    <!-- ======= About Section ======-->
+    <section id="about" class="about">
+        
+        <br>
+
+        <form method="POST">
+            {% csrf_token %}
+            <table class="table table-bordered table-striped table-sm">
+                <thead>
+                  <tr>
+                    <th>ID</th>
+                    <th>Job Title</th>
+                    <th>Description</th>
+                    <th>Location</th>
+                    <th>Salary Package</th>
+                    <th>Post Date</th>
+                    <th>Apply</th>
+                     
+                  </tr>
+                </thead>
+                <tbody>
+                {% for v in shelf %}
+                  <tr>
+                    <td>{{v.id}}</td>
+                    <td>{{v.JobTitle}}</td>
+                    <td>{{v.Description}}</td>
+                    <td>{{v.location}}</td>
+                    <td>{{v.salary_package}}</td>
+                    <td>{{v.PostDate}}</td>                    
+                    <td><a href="../ApplyJob/{{v.id}}" style="color:blue">Apply Now</a></td>
+                    
+                  </tr>
+                {% endfor %}
+                 </tbody>
+              </table>
+            
+
+            </form></main>
+
+{% endblock content %}
