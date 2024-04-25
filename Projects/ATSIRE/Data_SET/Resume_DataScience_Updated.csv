@@ -1,0 +1,104 @@
+Category,Resume
+Data Science,"Venkata Chandra Mukesh Rathikindi
+chandramukesh567@gmail.com | (469) 883 6662 | Redmond, WA | www.linkedin.com/in/rvchandramukesh
+PROFESSIONAL SUMMARY
+Over 4+ years of experience in Software Design, Development, Integration, Implementation, and Maintenance of Business Intelligence and Database Platforms.
+Extensive experience of over 3+ years in working with Business Intelligence data visualization tools, specializing in Tableau. Also, 2+ years of experience in ETL using SSIS, Informatica and working with databases such as SQL Server, Oracle, and MySQL.
+Extensive experience in Tableau Desktop, Tableau Server, and Tableau Reader in various versions of Tableau 8, 9, 10.
+Strong knowledge of reporting objects such as Attributes, Hierarchies, Transformations, Filters, Prompts, Calculated fields, Sets, Groups, and Parameters.
+Successfully migrated reports and dashboards from Tableau 8.0 to Tableau 9.0.
+Experience working with enterprise data sources like Teradata, SQL, and Oracle.
+Proficient in tools like Toad, Autosys, and SQL Server Management Studio. Involved in Unit testing, Functional testing, and User Acceptance testing on UNIX and Windows Environment.
+Skilled in Performance Tuning of Targets, Sources, Sessions, Mappings, and Transformations.
+Developed interactive dashboards using guided analytics and implemented visual best practices in Tableau.
+Created custom Tableau reports using SQL and advanced Tableau mapping techniques.
+Designed and developed analytical reports in Tableau Desktop by blending data from multiple sources onto a single worksheet.
+Expertise in Data Analysis, Data Extraction, Data Mart, and experience with tabcmd and tabadmin for email alerts, scheduling, data backup, SAML, and driver setup activities.
+Highly skilled in Tableau Desktop for data visualization, utilizing various chart types such as Cross Map, Scatter Plots, Geographic Map, Pie Charts, Bar Charts, Page Trails, Heat Map, and Density Chart.
+Proficient in Relational Database Management Systems, including normalization, stored procedures, constraints, querying, joins, keys, indexes, data import/export, triggers, and cursors.
+Extensive experience in working with multiple data connections, blending data, and managing queries.
+Provided production support to Tableau users and developed custom SQL queries to fulfill business requirements.
+Handled ongoing support and enhancements for reports and dashboards.
+Experience in Python Development and Scientific Programming and using Numpy and Pandas in Python for Data Manipulation.
+Experience in using Scikit-Learn and Statsmodels in Python for Machine Learning and Data Mining.
+Quick learner with the ability to excel in both team and independent job environments.
+Strong interpersonal, Analytical, and problem-solving skills. Proficient in multitasking.
+
+TECHNICAL SKILLS
+
+
+
+Programming Languages	: Python, R, Java, SQL
+Web Dev. Technologies	: TypeScript, HTML5, CSS, XML, JSON, HTTP
+Data Technologies and Tools	: Hadoop, Spark, Pyspark
+ETL Tools	: SSIS, Informatica, Pentaho
+Reporting Tools	: Tableau 2019.x/2018.x/10.x/9.x/8.x, PowerBI, QlikView, QlikSense, Cognos Analytics
+Operating Systems & Databases	: Windows, Linux, MySQL, Oracle, NoSQL, MS SQL
+Tools & Methodologies	: GIT, Eclipse, IntelliJ, RStudio, Git Bash, Agile
+Cloud Platform	: Amazon Web Services
+PROFESSIONAL EXPERIENCE
+AMAZON | Seattle, USA
+Software Development Engineer	July 2022-Present
+Responsible for designing, coding, testing, and debugging software solutions which involved in writing efficient and high-quality code to implement features and functionality based on customer and business requirements.
+Participated in the design and architecture of software systems and components. This included analyzing system requirements, identifying dependencies, and proposing scalable and reliable solutions.
+Tackled complex technical challenges and found innovative solutions and applied the same to analytical and problem-solving skills to identify root causes and address issues effectively.
+Handled High Volume of Financial Transactions in Real-Time and utilized AWS Lambda, to process and analyze the incoming financial data streams in real-time.
+Designed and implemented RESTful APIs using Java and related frameworks to enable seamless integration between different systems involved in finance automation. Ensured API security, performance, and adherence to industry best practices.
+Implemented CI/CD pipelines to ensure seamless software delivery and quality assurance for each commit made by developers, following the standard software development lifecycle.
+Created various Development Rollouts patterns like Canary deployments for the Lambda Function and Containers.
+Created Unit and Integration Testing and used within the Pipeline.
+Documented the code, system designs, and technical decisions is essential. I created and maintained technical documentation to facilitate knowledge sharing and provide clear references for future development and maintenance.
+Involved in troubleshooting production issues, performing root cause analysis, and implementing fixes to ensure smooth operations.
+Designed, developed, tested, and maintained Tableau functional reports based on user requirements.
+Worked closely with Business users. Interacted with ETL developers, Project Managers, and members of the QA teams.
+Worked extensively with various AWS services to build scalable, reliable, and secure solutions, which includes services such as Amazon EC2, Amazon S3, Amazon DynamoDB, AWS Lambda, Amazon RDS and Amazon SNS.
+Stayed up to date with the latest technologies, industry trends, and best practices. I actively seek opportunities to optimize processes and enhance software quality.
+Strong Dashboard design experience and passionate practitioner of effective data visualization. Familiarity with best practices around visualization and design. 
+Involved in writing complex Stored Procedures and Fine tune complex SQL queries and Stored Procedures to increase performance.
+Managed datasets using Panda data frames and MySQL, queried MYSQL database queries from python using Python-MySQL connector and MYSQL dB package to retrieve information.
+Generated various capacity planning reports(graphical) using Python packages like Numpy, matplotlib.
+
+ATOS GLOBAL IT SOLUTIONS | Bangalore, India
+Business Intelligence/Tableau Developer 		July 2017 - Oct 2020
+Gathered end user requirements from business and finance teams to develop executive dashboards encompassing financial forecasts, pre-sales data, risk analysis, and underwriting business insights.
+Developed corporate financial dashboards utilizing enterprise business intelligence tools to evaluate growth, distribution, and profitability for executives.
+Created information technology metrics dashboards to assess the efficiency of technology partners, improving productivity and delivery schedules for segment leads.
+Produced dashboard mockups and prototypes for business partners, providing a preview of the final product.
+Implemented various visualization types, including side-by-side bars, scatter plots, stacked bars, heat maps, filled maps, and symbol maps, to meet deliverable specifications.
+Provided business intelligence support using Tableau, ensuring effective business dashboards and data visualizations.
+Developed, managed, and maintained a data dictionary or metadata repository.
+Designed a metadata layer for Tableau reports, ensuring consistency in server data sources.
+Customized Tableau Server with company logo and pop-ups for branding purposes.
+Created complex calculated fields, field actions, sets, and parameters to enhance dashboard functionality and provide filtering and drill-down capabilities.
+Generated key performance indicators (KPIs) based on customer satisfaction survey results and disease management metrics.
+Published data connections on Tableau Server for usage with operational and monitoring dashboards.
+Implemented schema imports and customized business logic within Tableau worksheets.
+Prepared business process and technical design documentation for reporting services.
+Administered user access, user groups, and scheduled report instances within Tableau.
+Developed reports in SSRS (SQL Server Reporting Services) with email subscriptions for automated distribution.
+Created SSIS packages for data extraction and transformation from OLTP to OLAP systems, scheduling daily execution.
+Developed complex SQL queries, stored procedures, and user-defined functions to implement business logic.
+Ensured regular backups of production metadata in the SQL Server database.
+Designed and developed performance management dashboards for internal and external stakeholders, enabling business intelligence reporting on the application portfolio.
+Incorporated regional and national benchmark metrics to provide context for performance analysis.
+Implemented custom joins to blend data from multiple sources.
+Maintained test logs and prepared test evaluation and summary reports.
+Conducted user acceptance testing (UAT) and generated test cases corresponding to each module in the requirement specification document.
+Performed Tableau admin duties, including configuration, user and group management, license administration, data connections, task scheduling, and embedding views in Tableau Server.
+EDUCATION
+Master of Science, Data Science	Jan 2021 – May 2022
+University OF NORTH TEXAS	Cumulative GPA: 3.83/4.0
+Bachelor of Engineering, Computer Science	Aug 2013 – July 2017 BMS Institute of Technology & Management	GPA: 3.6/4.0 CERTIFICATION
+
+Completed PowerCenter Data Integration 10: Developer, Specialist Certification. Completed Oracle Certified Associate with Java SE 7 Programmer.
+ACADEMIC PROJECTS
+US Traffic Accidents Analysis based on weather conditions
+Tableau Desktop, R, Tableau Prep, MS Excel, AWS Lambda, AWS S3, Data Visualization
+FIFA Player’s Data Statistical Analysis
+SAS Enterprise Miner, Predictive Modeling, MS Excel, Machine Learning, Data Mining
+Student Tuition and Fee Predictive Statistical Analysis
+IBM SPSS, MS Excel, Hypothesis Testing, Statistical Modeling, Advanced-Data Analytics
+Quantitative Analysis for Predicting Wine Quality using text reviews
+Rapid Miner, MS Excel, VBA Scripting, Knowledge Discovery, and Pattern Recognition
+Grocery Store Database Design using SQL
+SQL, Databases, MS Excel, Data Modeling"

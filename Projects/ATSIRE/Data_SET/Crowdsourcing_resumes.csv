@@ -1,0 +1,2050 @@
+Category,Resume
+Data Science,"Skills:
+•	Programming Languages: Python, pandas, numpy, scipy, scikit-learn, matplotlib, SQL, Java, JavaScript, jQuery
+•	Machine Learning: Regression, SVM, Naive Bayes, KNN, Random Forest, Decision Trees, Boosting techniques, Cluster Analysis, Word Embedding, Sentiment Analysis, Natural Language Processing, Dimensionality Reduction, Topic Modelling (LDA, NMF), PCA, Neural Nets
+•	Database: MySQL, SQL Server, Cassandra, Hbase, ElasticSearch
+•	Visualizations: D3.js, DC.js, Plotly, Kibana, Matplotlib, ggplot, Tableau
+•	Others: Regular Expression, HTML, CSS, Angular 6, Logstash, Kafka, Python Flask, Git, Docker, Computer Vision, OpenCV, and understanding of Deep Learning
+Education Details:
+•	Data Science Assurance Associate, Ernst & Young LLP
+Skill Details:
+•	JavaScript (Experience: 24 months)
+•	jQuery (Experience: 24 months)
+•	Python (Experience: 24 months)
+Company Details:
+•	Company: Ernst & Young LLP
+Description: Fraud Investigations and Dispute Services Assurance, TECHNOLOGY ASSISTED REVIEW (TAR): Technology Assisted Review assists in accelerating the review process and running analytics to generate reports. Core member of a team that helped in developing an automated review platform tool from scratch for assisting E-discovery domain. This tool implements predictive coding and topic modelling by automating reviews resulting in reduced labor costs and time spent during the lawyer's review. Understand the end-to-end flow of the solution, doing research and development for classification models, predictive analysis, and mining of the information present in text data. Worked on analyzing the outputs and precision monitoring for the entire tool. TAR assists in predictive coding, topic modelling from the evidence by following EY standards. Developed the classifier models to identify red flags and fraud-related issues.
+Tools/Technologies:
+•	Python: scikit-learn, tf-idf, word2vec, doc2vec, cosine similarity, Naive Bayes, LDA, NMF for topic modelling, Vader and text blob for sentiment analysis Matplotlib, Tableau dashboard for reporting Multiple Data Science and Analytic Projects:
+•	USA Clients Text Analytics: Motor Vehicle Customer Review Data. Received customer feedback survey data for the past year. Performed sentiment (Positive/Negative/Neutral) and time-series analysis on customer comments across all 4 categories. Created a heat map of terms by survey category based on the frequency of words. Extracted Positive and Negative words across all the Survey categories and plotted Word cloud. Created customized Tableau dashboards for effective reporting and visualizations.
+•	Chatbot: Developed a user-friendly chatbot for one of our products which handles simple questions about hours of operation, reservation options, and so on. This chatbot serves entire product-related questions, giving an overview of the tool via QA platform and also gives recommendation responses so that user question to build a chain of relevant answers. This tool has intelligence to build the pipeline of questions as per user requirements and asks relevant recommended questions.
+•	Information Governance: Organizations make informed decisions about all of the information they store. The integrated Information Governance portfolio synthesizes intelligence across unstructured data sources and facilitates action to ensure organizations are best positioned to counter information risk. Scan data from multiple sources of formats and parse different file formats, extract metadata information, push results for indexing ElasticSearch, and create customized interactive dashboards using Kibana. Preforming ROT Analysis on the data which gives information about data that helps identify content that is either Redundant, Outdated, or Trivial. Preforming full-text search analysis on ElasticSearch with predefined methods that can tag as PII (personally identifiable information) social security numbers, addresses, names, etc., which are frequently targeted during cyber attacks.
+•	Fraud Analytic Platform: Fraud Analytics and investigative platform to review all red flag cases. FAP is a Fraud Analytics and investigative platform with an inbuilt case manager and a suite of Analytics for various ERP systems. It can be used by clients to interrogate their Accounting systems for identifying the anomalies which can be indicators of fraud by running advanced analytics.
+"
+Data Science,"Objective: To obtain a challenging position in the field of Electrical and Electronics Engineering that will allow me to utilize my technical skills and knowledge to contribute to the growth of the organization.
+Areas of Interest:
+•	Deep Learning
+•	Control System Design
+•	Programming in Python
+•	Electric Machinery
+•	Web Development
+•	Analytics
+Technical Activities:
+Hindustan Aeronautics Limited Bangalore (4 weeks): worked under the guidance of Mr. Satish, Senior Engineer in the hangar of Mirage 2000 fighter aircraft
+Technical Skills:
+•	Programming: MATLAB, Python, and Java
+•	LabView
+•	Python web frameworks: Django, Flask
+•	LTSPICE (intermediate)
+•	Languages: MIPOWER (intermediate)
+•	GitHub
+•	GitBash
+•	Jupyter Notebook
+•	Xampp
+•	MySQL Basics
+Python Software Packages:
+•	Interpreters: Anaconda, Python2, Python3
+•	Pycharm
+•	Java IDE: Eclipse
+Operating Systems:
+•	Windows
+•	Ubuntu
+•	Debian
+•	Kali Linux
+Education Details:
+•	January 2019: B. Tech Electrical and Electronics Engineering, Manipal Institute of Technology
+•	January 2015: DEEKSHA CENTER
+•	January 2013: Little Flower Public School
+•	August 2000: Manipal Academy of Higher
+Skill Details:
+•	Data Analysis (Experience: Less than 1 year)
+•	Excel (Experience: Less than 1 year)
+•	Machine Learning (Experience: Less than 1 year)
+•	Mathematics (Experience: Less than 1 year)
+•	Python (Experience: Less than 1 year)
+•	Matlab (Experience: Less than 1 year)
+•	Electrical Engineering (Experience: Less than 1 year)
+•	SQL (Experience: Less than 1 year)
+Company Details:
+•	Company: THEMATHCOMPANY
+Description: I am currently working with a Casino based operator (name not disclosed) in Macau. I need to segment the customers who visit their property based on the value the patrons bring into the company. My role is to prove that the segmentation can be done in a much better way than the current system which they have with proper numbers to back it up. Henceforth, they can implement a target marketing strategy to attract customers who add value to the business.
+"
+Data Science,"Skills:
+•	R
+•	Python
+•	SAP HANA Tableau
+•	SAP HANA SQL
+•	SAP HANA PAL
+•	MS SQL
+•	SAP Lumira
+•	C
+•	Linear Programming
+•	Data Modelling
+•	Advance Analytics
+•	SCM Analytics
+•	Retail Analytics
+•	Social Media Analytics
+•	NLP
+Education Details:
+•	January 2017 to January 2018: PGDM Business Analytics, Great Lakes Institute of Management, Illinois Institute of Technology
+•	January 2013: Bachelor of Engineering in Electronics and Communication, Bengaluru Karnataka, New Horizon College of Engineering, Bangalore, Visvesvaraya Technological University
+Skill Details:
+•	Linear Programming (Experience: 6 months)
+•	Retail (Experience: 6 months)
+•	Retail Marketing (Experience: 6 months)
+•	SCM (Experience: 6 months)
+•	SQL (Experience: Less than 1 year months)
+•	Deep Learning (Experience: Less than 1 year months)
+•	Machine learning (Experience: Less than 1 year months)
+•	Python (Experience: Less than 1 year months)
+•	R (Experience: Less than 1 year months)
+Company Details:
+•	Company: Deloitte USI
+•	Description: The project involved analyzing historic deals and coming up with insights to optimize future deals.
+•	Role: Was given raw data, carried out end-to-end analysis, and presented insights to client.
+•	Key Responsibilities: Extract data from client systems across geographies; understand and build reports in Tableau; infer meaningful insights to optimize prices and find out process blockades.
+Tools/Technologies:
+•	R
+•	Tableau
+•	Python
+•	SAP HANA
+•	SAP AO
+Project Details:
+       Project Name: Handwriting Recognition
+•	Consultant: 3 months
+•	Description: The project involved taking handwritten images and converting them to digital text images by object detection and sentence creation.
+•	Role: Developed sentence correction functionality.
+•	Key Responsibilities: Gather data large enough to capture all English words; train LSTM models on words.
+•	Technical Environment: Python
+Project Name: SWIFT
+•	Consultant: 8 months
+•	Description: The project was to develop an analytics infrastructure on top of SAP S/4. It would allow users to view financial reports to respective departments. Reporting also included forecasting expenses.
+•	Role: Led the offshore team.
+•	Key Responsibilities: Design and develop data models for reporting; develop ETL for data flow; validate various reports.
+•	Technical Environment: SAP HANA, Tableau, SAP AO
+Project Name: Clinical Healthcare System
+•	Consultant: 2 months
+•	Description: The project was to develop an analytics infrastructure on top of Argus. It would allow users to query faster and provide advance analytics capabilities.
+•	Role: Involved from design to deploy phase, performed a lot of data restructuring, and built models for insights.
+•	Key Responsibilities: Design and develop data models for reporting; develop and deploy analytical models; validate various reports.
+•	Technical Environment: Data Modelling, SAP HANA, Tableau, NLP
+Project Name: Consumption Based Planning for Flowers Foods
+•	Consultant: 8 months
+•	Description: The project involved setting up of CRM and CBP modules.
+•	Role: Involved in key data decomposition activities and setting up the base for future year forecast. Over the course of the project, developed various models and carried out key performance improvements.
+•	Key Responsibilities: Design and develop HANA models for decomposition; develop data flow for forecast; develop various views for reporting of customer sales funds; validate various reports in BOBJ.
+•	Technical Environment: Data Modelling, SAP HANA, BOBJ, Time Series Forecasting
+Project Name: Internal Initiative
+•	Consultant: N/A
+•	Description: Industry: FMCG. The initiative involved setting up of HANA-Python interface and advance analytics on Python. Over the course, successfully segmented data into five core segments using K means and carried out RFM analysis in Python. Also developed algorithm to categorize any new customer under the defined buckets.
+•	Technical Environment: Anaconda3, Python3.6, HANA SPS12
+Project Name: Invoice State Detection
+•	Consultant: 1 month
+•	Description: The initiative was to reduce the manual effort in verifying closed and open invoices manually. It involved development of a decision tree to classify open/closed invoices. This enabled effort reduction by 60%.
+•	Technical Environment: R, SAP PAL, SAP HANA SPS12
+Project Name: In Process Analytics for SAP
+•	Consultant: 19 months
+•	Description: The project involved development of SAP analytics tool - In Process Analytics (IPA). My role was to develop database objects and data models to provide operational insights to clients.
+•	Role: Developed various finance-related KPIs and spearheaded various deployments. Introduced SAP Predictive analytics to reduce development time and reuse functionalities for KPIs and prepared production planning reports.
+•	Key Responsibilities: Involved in information gather phase; designed and implemented SAP HANA data modelling using Attribute View, Analytic View, and Calculation View; developed various KPIs individually using complex SQL scripts in Calculation views; created procedures in HANA Database; took ownership and developed Dashboard functionality; involved in building data processing algorithms to be executed in R server for cluster analysis.
+•	Technical Environment: R, SAP HANA, T-SQL
+Project Name: ATAS (Aventurine Testing Accelerator for SAP)
+•	Consultant: 21 months
+•	Description: Role was to take care of all development activities for the ATAS tool and complete various deployments of the product. Actively involved in maintenance of the database servers Production Quality.
+•	Key Responsibilities: Analyzing business requirements, understanding the scope, getting requirements clarified, interacting with business, and further transforming all requirements to generate attribute mapping documents and reviewing mapping specification documentation; create/update database objects like tables, views, stored procedures, function, and packages; monitored SQL Server Error Logs and Application Logs through SQL Server Agent; prepared Data Flow Diagrams, Entity Relationship Diagrams using UML; responsible for designing, developing, and normalization of database tables; experience in performance tuning using SQL profiler; involved in QA, UAT, knowledge transfer, and support activities.
+•	Technical Environment: SQL Server 2008-2014, Visual Studio 2010, Windows Server Performance Monitor, SQL Server Profiler, C, PL-SQL, T-SQL.
+"
+Data Science,"Skills:
+•	C Basics
+•	IOT
+•	Python
+•	MATLAB
+•	Data Science
+•	Machine Learning
+•	HTML
+•	Microsoft Word
+•	Microsoft Excel
+•	Microsoft Powerpoint
+Recognition:
+•	Secured First place in B Tech
+Education Details:
+•	August 2014 to May 2018: B Tech, Aurora's Scientific and Technological Institute, Ghatkesar Andhra Pradesh
+•	June 2012 to May 2014: Secondary Education, SR Junior College, Warangal Telangana
+Skill Details:
+•	MS Office (Experience: Less than 1 year months)
+•	C (Experience: Less than 1 year months)
+•	Machine Learning (Experience: Less than 1 year months)
+•	Data Science (Experience: Less than 1 year months)
+•	MATLAB (Experience: Less than 1 year months)
+"
+Data Science,"Skills:
+•	Python
+•	Tableau
+•	Data Visualization
+•	R Studio
+•	Machine Learning
+•	Statistics
+•	IABAC Certified Data Scientist
+Education Details:
+•	January 2017: B Tech Computer Science Engineering, Indo Global College of Engineering, Mohali Punjab
+Experience Details:
+Data Science Consultant
+•	Duration: 24 months
+•	Company: Datamites
+•	Description: Analyzed and processed complex data sets using advanced querying visualization and analytics tools. Responsible for loading, extracting, and validation of client data. Worked on manipulating, cleaning, and processing data using Python. Used Tableau for data visualization.
+Data Science Consultant
+•	Duration: 13 months
+•	Company: Heretic Solutions Pvt Ltd
+•	Description: Worked closely with business to identify issues and used data to propose solutions for effective decision making. Manipulated, cleansed, and processed data using Python, Excel, and R. Analyzed raw data, drew conclusions, and developed recommendations. Used machine learning tools and statistical techniques to produce solutions to problems.
+Skill Details:
+•	Machine Learning (Experience: 24 months)
+•	Python (Experience: 24 months)
+•	Solutions (Experience: 24 months)
+•	Data Science (Experience: 24 months)
+•	Data Visualization (Experience: 24 months)
+•	Tableau (Experience: 24 months)
+"
+Data Science,"Personal Skills:
+•	Ability to quickly grasp technical aspects and willingness to learn
+•	High energy levels
+•	Result oriented
+Education Details:
+•	January 2018: Master of Engineering Computer Technology Application, Truba Institute of Engineering Information Technology, Bhopal Madhya Pradesh
+•	January 2010: B.E. Computer Science, RKDF Institute of Science and Technology College of Engineering, Bhopal Madhya Pradesh
+•	January 2006: Polytechnic Information Technology, SATI Engineering College in Vidisha, Vidisha Madhya Pradesh
+•	January 2003: M.Tech Thesis Detail, BMCH School in Ganj Basoda
+Experience Details:
+Data Science (Experience: 6 months)
+•	Key Skills: Experience in Machine Learning, Deep Learning, NLP, Python, SQL, Web Scraping, Good knowledge in computer subjects and ability to update
+Skill Details:
+•	Experience in Machine Learning (Experience: Less than 1 year months)
+•	Deep Learning (Experience: Less than 1 year months)
+•	NLP (Experience: Less than 1 year months)
+•	Python (Experience: Less than 1 year months)
+•	SQL (Experience: Less than 1 year months)
+•	Web Crawling (Experience: Less than 1 year months)
+•	HTML (Experience: Less than 1 year months)
+•	CSS (Experience: Less than 1 year months)
+Company Details:
+Company: RNT AI Technology Solution
+•	Description: Text classification using Machine learning Algorithms with python. Practical knowledge of Deep learning algorithms such as Recurrent Neural Networks (RNN). Develop custom data models and algorithms to apply to dataset. Experience with Python packages like Pandas, Scikit-learn, Tensor Flow, Numpy, Matplotlib, NLTK. Comfort with SQL, MYSQL. Sentiment analysis. Apply leave Dataset using classification technique like Tf-idf, LSA with cosine similarity using Machine learning Algorithms. Web crawling using Selenium web driver and Beautiful Soup with python.
+Company: Life Insurance Corporation of India, Bhopal
+•	Description: Explaining policy features and the benefits. Updated knowledge of life insurance products and shared with customers.
+"
+Data Science,"Skills:
+•	Python
+•	Tableau
+•	Data Visualization
+•	R Studio
+•	Machine Learning
+•	Statistics
+•	IABAC Certified Data Scientist
+Education Details:
+•	January 2017: B Tech Computer Science Engineering, Indo Global College of Engineering, Mohali Punjab
+Experience Details:
+Data Science Consultant
+•	Duration: 24 months
+•	Company: Datamites
+•	Description: Analyzed and processed complex data sets using advanced querying visualization and analytics tools. Responsible for loading, extracting, and validation of client data. Worked on manipulating, cleaning, and processing data using Python. Used Tableau for data visualization.
+Data Science Consultant
+•	Duration: 13 months
+•	Company: Heretic Solutions Pvt Ltd
+•	Description: Worked closely with business to identify issues and used data to propose solutions for effective decision making. Manipulated, cleansed, and processed data using Python, Excel, and R. Analyzed raw data, drew conclusions, and developed recommendations. Used machine learning tools and statistical techniques to produce solutions to problems.
+Skill Details:
+•	Machine Learning (Experience: 13 months)
+•	Python (Experience: 24 months)
+•	Solutions (Experience: 24 months)
+•	Data Science (Experience: 24 months)
+•	Data Visualization (Experience: 24 months)
+•	Tableau (Experience: 24 months)
+Company Details:
+Company: Datamites
+•	Description: Analyzed and processed complex data sets using advanced querying visualization and analytics tools. Responsible for loading, extracting, and validation of client data. Worked on manipulating, cleaning, and processing data using Python. Used Tableau for data visualization.
+Company: Heretic Solutions Pvt Ltd
+•	Description: Worked closely with business to identify issues and used data to propose solutions for effective decision making. Manipulated, cleansed, and processed data using Python, Excel, and R. Analyzed raw data, drew conclusions, and developed recommendations. Used machine learning tools and statistical techniques to produce solutions to problems.
+"
+Data Science,"Personal Skills:
+•	Ability to quickly grasp technical aspects and willingness to learn
+•	High energy levels
+•	Result oriented
+Education Details:
+•	January 2018: Master of Engineering Computer Technology Application, Truba Institute of Engineering Information Technology, Bhopal Madhya Pradesh
+•	January 2010: B.E. Computer Science, RKDF Institute of Science and Technology College of Engineering, Bhopal Madhya Pradesh
+•	January 2006: Polytechnic Information Technology, SATI Engineering College in Vidisha, Vidisha Madhya Pradesh
+•	January 2003: M.Tech Thesis Detail, BMCH School in Ganj Basoda
+Experience Details:
+•	Data Science (Experience: 6 months)
+•	Key Skills: Experience in Machine Learning, Deep Learning, NLP, Python, SQL, Web Scraping, Good knowledge in computer subjects and ability to update
+Skill Details:
+•	Experience in Machine Learning (Experience: Less than 1 year months)
+•	Deep Learning (Experience: Less than 1 year months)
+•	NLP (Experience: Less than 1 year months)
+•	Python (Experience: Less than 1 year months)
+•	SQL (Experience: Less than 1 year months)
+•	Web Crawling (Experience: Less than 1 year months)
+•	HTML (Experience: Less than 1 year months)
+•	CSS (Experience: Less than 1 year months)
+Company Details:
+Company: RNT AI Technology Solution
+•	Description: Text classification using Machine learning Algorithms with python. Practical knowledge of Deep learning algorithms such as Recurrent Neural Networks (RNN). Develop custom data models and algorithms to apply to dataset. Experience with Python packages like Pandas, Scikit-learn, Tensor Flow, Numpy, Matplotlib, NLTK. Comfort with SQL, MYSQL. Sentiment analysis. Apply leave Dataset using classification technique like Tf-idf, LSA with cosine similarity using Machine learning Algorithms. Web crawling using Selenium web driver and Beautiful Soup with python.
+Company: Life Insurance Corporation of India, Bhopal
+•	Description: Explaining policy features and the benefits. Updated knowledge of life insurance products and shared with customers.
+"
+Data Science,"Skills:
+•	Programming Languages: Python, pandas, numpy, scipy, scikit-learn, matplotlib, SQL, Java, JavaScript, jQuery
+•	Machine Learning: Regression, SVM, Naive Bayes, KNN, Random Forest, Decision Trees, Boosting techniques, Cluster Analysis, Word Embedding, Sentiment Analysis, Natural Language Processing, Dimensionality Reduction, Topic Modelling (LDA, NMF), PCA, Neural Nets
+•	Database: MySQL, SQL Server, Cassandra, Hbase, ElasticSearch
+•	Visualizations: D3.js, DC.js, Plotly, Kibana, Matplotlib, ggplot, Tableau
+•	Others: Regular Expression, HTML, CSS, Angular 6, Logstash, Kafka, Python Flask, Git, Docker, Computer Vision, OpenCV, and understanding of Deep Learning
+Education Details:
+•	Data Science Assurance Associate, Ernst & Young LLP
+Skill Details:
+•	JavaScript (Experience: 24 months)
+•	jQuery (Experience: 24 months)
+•	Python (Experience: 24 months)
+Company Details:
+•	Company: Ernst & Young LLP
+Description: Fraud Investigations and Dispute Services Assurance, TECHNOLOGY ASSISTED REVIEW (TAR): Technology Assisted Review assists in accelerating the review process and running analytics to generate reports. Core member of a team that helped in developing an automated review platform tool from scratch for assisting E-discovery domain. This tool implements predictive coding and topic modelling by automating reviews resulting in reduced labor costs and time spent during the lawyer's review. Understand the end-to-end flow of the solution, doing research and development for classification models, predictive analysis, and mining of the information present in text data. Worked on analyzing the outputs and precision monitoring for the entire tool. TAR assists in predictive coding, topic modelling from the evidence by following EY standards. Developed the classifier models to identify red flags and fraud-related issues.
+Tools/Technologies:
+•	Python: scikit-learn, tf-idf, word2vec, doc2vec, cosine similarity, Naive Bayes, LDA, NMF for topic modelling, Vader and text blob for sentiment analysis Matplotlib, Tableau dashboard for reporting Multiple Data Science and Analytic Projects:
+•	USA Clients Text Analytics: Motor Vehicle Customer Review Data. Received customer feedback survey data for the past year. Performed sentiment (Positive/Negative/Neutral) and time-series analysis on customer comments across all 4 categories. Created a heat map of terms by survey category based on the frequency of words. Extracted Positive and Negative words across all the Survey categories and plotted Word cloud. Created customized Tableau dashboards for effective reporting and visualizations.
+•	Chatbot: Developed a user-friendly chatbot for one of our products which handles simple questions about hours of operation, reservation options, and so on. This chatbot serves entire product-related questions, giving an overview of the tool via QA platform and also gives recommendation responses so that user question to build a chain of relevant answers. This tool has intelligence to build the pipeline of questions as per user requirements and asks relevant recommended questions.
+•	Information Governance: Organizations make informed decisions about all of the information they store. The integrated Information Governance portfolio synthesizes intelligence across unstructured data sources and facilitates action to ensure organizations are best positioned to counter information risk. Scan data from multiple sources of formats and parse different file formats, extract metadata information, push results for indexing ElasticSearch, and create customized interactive dashboards using Kibana. Preforming ROT Analysis on the data which gives information about data that helps identify content that is either Redundant, Outdated, or Trivial. Preforming full-text search analysis on ElasticSearch with predefined methods that can tag as PII (personally identifiable information) social security numbers, addresses, names, etc., which are frequently targeted during cyber attacks.
+•	Fraud Analytic Platform: Fraud Analytics and investigative platform to review all red flag cases. FAP is a Fraud Analytics and investigative platform with an inbuilt case manager and a suite of Analytics for various ERP systems. It can be used by clients to interrogate their Accounting systems for identifying the anomalies which can be indicators of fraud by running advanced analytics.
+"
+Data Science,"Objective: To obtain a challenging position in the field of Electrical and Electronics Engineering that will allow me to utilize my technical skills and knowledge to contribute to the growth of the organization.
+Areas of Interest:
+•	Deep Learning
+•	Control System Design
+•	Programming in Python
+•	Electric Machinery
+•	Web Development
+•	Analytics
+Technical Activities:
+Hindustan Aeronautics Limited Bangalore (4 weeks): worked under the guidance of Mr. Satish, Senior Engineer in the hangar of Mirage 2000 fighter aircraft
+Technical Skills:
+•	Programming: MATLAB, Python, and Java
+•	LabView
+•	Python web frameworks: Django, Flask
+•	LTSPICE (intermediate)
+•	Languages: MIPOWER (intermediate)
+•	GitHub
+•	GitBash
+•	Jupyter Notebook
+•	Xampp
+•	MySQL Basics
+Python Software Packages:
+•	Interpreters: Anaconda, Python2, Python3
+•	Pycharm
+•	Java IDE: Eclipse
+Operating Systems:
+•	Windows
+•	Ubuntu
+•	Debian
+•	Kali Linux
+Education Details:
+•	January 2019: B. Tech Electrical and Electronics Engineering, Manipal Institute of Technology
+•	January 2015: DEEKSHA CENTER
+•	January 2013: Little Flower Public School
+•	August 2000: Manipal Academy of Higher
+Skill Details:
+•	Data Analysis (Experience: Less than 1 year)
+•	Excel (Experience: Less than 1 year)
+•	Machine Learning (Experience: Less than 1 year)
+•	Mathematics (Experience: Less than 1 year)
+•	Python (Experience: Less than 1 year)
+•	Matlab (Experience: Less than 1 year)
+•	Electrical Engineering (Experience: Less than 1 year)
+•	SQL (Experience: Less than 1 year)
+Company Details:
+•	Company: THEMATHCOMPANY
+Description: I am currently working with a Casino based operator (name not disclosed) in Macau. I need to segment the customers who visit their property based on the value the patrons bring into the company. My role is to prove that the segmentation can be done in a much better way than the current system which they have with proper numbers to back it up. Henceforth, they can implement a target marketing strategy to attract customers who add value to the business.
+"
+Operation Manager,"Education:
+•	BCA, Vinayaka Missions University
+Experience:
+•	Operations Manager, BNY Mellon International Operations India Pvt Ltd (Sept 2009 - present)
+•	Led a team of professionals responsible for accurate and timely account setups and invoice production for institutional clients globally
+•	Tasked with improving service quality and reducing overall unbilled revenue
+•	Monitored client KYCs and compliance monitoring for institutional clients
+•	Managed support and trained the team in drafting and reviewing standard operating procedures to ensure compliance with US and global regulations for billing
+•	Initiated quarterly risk and control self-assessments (RCSA) concurrence reviews with all process stakeholders
+•	Worked as a project manager in BNY Mellon PMO to manage the transitions of billing operations
+•	Restructured organization design to differentiate roles, develop career paths, and facilitate easy work rotation
+•	Managed multiple teams for different sub-functions within billing department
+•	Application Support Engineer (Tier II), Wipro Ltd (CLIENT: Microsoft)
+•	Provided technical support to Siebel CRM users across the globe from Microsoft Corp
+•	Communicated with users to obtain understanding of their environment and challenges to troubleshoot issues and provide solutions
+•	Trained new engineers in providing proactive support to users
+•	Compiled data and department metrics into reports for management examination of processes
+•	Coordinated development team with business users for system deployment and modifications
+•	Performed periodic application health checks
+•	Account Receivables Senior Associate, Dell Global Financial Services (Aug 2005 - Feb 2007)
+•	Handled a portfolio of about 500 US corporate customers and managed a team of 8 senior credit controllers
+•	Minimized credit losses by managing the team to collect delinquent amounts
+•	Handled escalations through emails and over the phone
+•	Mentored new hires and assisted team members in improving performance as required
+•	Set up and led conference calls with customers and other internal departments to discuss issues on accounts and derive measures to resolve them
+•	Outbound Caller, GE Capital International Services (GECIS)
+•	Made outbound calls and sent emails to inform institutional clients about their delinquent payments as per standard operating procedures
+•	Maintained 95% accuracy rate throughout the year
+•	Generated a daily report on the team's performance, which included ways and means of improvement in COE revenue
+Skills:
+•	Operations management
+•	Project management
+•	Transitions management
+•	Risk and control self-assessments
+•	Talent management
+•	Customer support
+•	Performance management
+•	Team leadership
+"
+Operation Manager,"Key Competencies:
+•	Multi Operations Management
+•	People Management
+•	Customer Services
+•	Emails
+•	MIS
+•	Vendor Client Services Management
+•	Cross Functional Coordination
+•	Banking Financial Services
+•	Transaction Monitoring
+•	ATM Operations
+•	Prepaid Card Operations
+•	Pre-Issuance
+•	Post-Issuance
+•	POS Operations
+Job Profile:
+•	Manager Operations, Zaggle Prepaid Ocean Services Pvt Ltd (Oct 2017 - Present)
+•	Service Manager Operations, Yalamanchili Software Exports Ltd (Dec 2015 - Feb 2017)
+Skills:
+•	Effective communicator with excellent relationship building and interpersonal skills
+•	Strong analytical, problem-solving, and organizational abilities
+•	Extensive experience in managing operations with demonstrated leadership qualities and organizational skills
+•	Customer-centric operations management ensuring customer satisfaction by achieving service quality norms
+•	Risk analysis and management of delinquencies with dexterity, applying techniques for maximizing recoveries and minimizing credit losses
+•	Analyzing and identifying training needs of team members, and developing, organizing, and conducting training programs to improve their performance
+•	Preparing and maintaining daily MIS reports to evaluate the performance and efficiency of the process related to various verticals
+•	Measuring the performance of the processes in terms of efficiency and effectiveness matrix and ensuring adherence to SLA
+Experience:
+•	Manager Operations, Zaggle Prepaid Ocean Services Pvt Ltd (Oct 2017 - Present)
+•	Managed card operations for prepaid cards
+•	Coordinated with different software teams, including CTL prime Axis Bank Credit Cards, Insight for POS Machine technical operations for Amex, MID TID Generation ATOS Venture Infotek, Ticket Management System TATA Communications Private Services Ltd ATM NOC Operations, and Branch Portal Yalamanchili Software Exports Ltd Prepaid Cards SBI Bank Zaggle Prepaid Oceans Services Ltd Zaggle Prepaid Ocean Services Pvt Ltd
+•	Defined processes for field services and monitored necessary checks
+•	Measured vendor SLA by analyzing the TAT of vendors and the client SLA provided to us
+•	Handled vendor payment issues and ensured payments are processed on a quarterly basis
+•	Planned and executed each skill of operations in accordance with the department's policies and procedures
+•	Managed relationships with business teams, software development teams, and other services to achieve project objectives
+•	Service Manager Operations, Yalamanchili Software Exports Ltd (Dec 2015 - Feb 2017)
+•	Managed operations for prepaid cards in the payment industry
+•	Ensured PIN generation SLA is maintained and chargeback cases are raised in a timely manner
+•	Managed email customer services properly and ensured the emails are replied to effectively
+•	Monitored transaction monitoring 24/7
+•	Assisted bankers from SBI and associated banks for their BCP plans by getting them executed in the system with the help of DR PR plans or any other business requirements
+•	Maintained the highest level of quality in operations, ensuring adherence to all quality parameters and procedures as per the stringent norms
+•	Led, managed, and supervised the execution of external audit engagements and presented findings to senior management and clients
+•	Coached and mentored 20 team members to perform at a higher level by providing opportunities for personal and professional growth
+•	Designed and conducted training programs to enhance operational efficiency and retain talent by providing optimum opportunities for personal and professional growth
+•	Team Leader Executive, Ma Foi I Smart (Aug 2006 - Oct 2009)
+•	Worked in the emails, phone banking, correspondence unit, and snail mail departments
+Education:
+•	Commerce, Mumbai University
+"
+Operation Manager,"Education Details:
+•	B.Com (Commerce), Mumbai University, Maharashtra
+•	DIM (Business Management), IGNOU
+IT Skills:
+•	Well-versed with MS Office and internet applications
+•	Proficient in various ERP systems implemented in the companies, including SAGE, Flotilla LM ERP, Tally 9, WMS, and Exceed 4000
+Skill Details:
+•	Employee Resource Group: 6 months of experience
+•	Enterprise Resource Planning: 6 months of experience
+•	ERP: 6 months of experience
+•	MS Office: 6 months of experience
+•	Tally: 6 months of experience
+Company Details:
+Company: Landmark Insurance Brokers Pvt Ltd
+•	Description: One of India's largest insurance brokerage firms with offices across 24 states PAN India and a part of the Landmark Group with an annual turnover of 2200 cr.
+•	Position: Operations Manager
+•	Duration: Jan 2019 till date
+Key Responsibilities:
+•	Leading and overseeing a team of 12 people to ensure that the correct work processes and TAT are followed with regards to complete insurance handling from cheque submission right up to policy issuance and support to all offices PAN India for Motor and Health Insurance
+•	Ensuring all the data entry of customers is correctly done by the customer service
+•	Underwriting of documents and verification (Health, Motor)
+•	Costings of insurance products
+•	Follow-ups with insurance companies
+•	Customer complaint handling and solutions
+•	MIS reporting
+•	Ensuring the team is working in line with the operations SOP
+•	Conducting weekly briefing with the team
+•	Liaising with all PAN India offices for all operational support
+•	Handling daily cash transactions
+•	Reporting to the Vice President Operations
+Company: Trippereri Travels Tours
+•	Description: A startup travel agency company organizing local and international tours
+•	Position: Operations Manager
+•	Duration: Jan 2017 to Mar 2018
+Key Responsibilities:
+•	Looked after overall operations and administrative sales functions
+Company: Vish Hotel Supplies Pvt Ltd
+•	Description: A distributor of hotel supplies to 5-star international hotel groups in India for hotel amenities from an international supplier to more than 50 hotels all across India.
+•	Position: Operations Manager (Supply Chain Logistics)
+•	Duration: Jan 2015 to Nov 2016
+Key Responsibilities:
+•	Complete Incharge of running the business from Shipping Imports warehousing right up to Distribution and overseeing all operational related activities for the company
+•	Overlooking and managing all aspects of the business and implementing procedures for successful shipping inventory management at the warehouse delivery of material all India plus exports
+•	Overseeing all vendor negotiations in addition to the customs warehouse and cha
+•	Negotiating with Freight forwarders for best freight rates and quickest delivery times
+•	Overseeing the clearance of import shipments and export shipments and liaising with freight forwarders
+•	Ensuring that all government and tax compliances are adhered to by the company
+•	Ensuring that all benefits of government rebates and duty schemes are received and availed by the customer and company as per the EXIM license held
+•	Overseeing that all customers are satisfied with the overall supplies and services of the company
+•	Ensuring that all obstacles faced in the supply chain management are smoothed out for hassle-free delivery to the customers across India
+•	Overseeing accounts payables and receivables
+•	Overseeing that all stock is maintained in the warehouses and accounting books as per implemented procedures
+•	Sourcing out new vendors with high-quality manufacturing capabilities for new product manufacture
+•	Visiting customers to survey customer satisfaction and address any shortfalls
+•	HR function like recruitment, interviewing, finalizing candidates for the company
+Company: GEA Ecoflex Middle East FZE
+•	Description: GEA Ecoflex part of the GEA Group Germany is one of the largest suppliers of process technology and components for the food and energy industries. As an international technology group, the company focuses on sophisticated production processes. GEA generates revenues in excess of EUR 5.7 billion annually.
+•	Position: Freight Management
+•	Duration: N/A
+Key Responsibilities:
+•	Acquire, develop, and enhance relationships for economical, faster modes of freight forwarding for various requirements of the company
+•	Developing pricing strategies with an eye towards maximizing company's profits by reducing its freight costs by negotiating the pricing for each individual sector with freight forwarders shipping carrier and ensuring timely delivery of goods to the respective destinations
+•	Manage and negotiate the import freight charges with various freight forwarders and airlines for Bulk Air shipments moving from Americas, Europe, Dubai, India, China, Other GCC Countries
+•	Identify possible snag loopholes for all consignments moving in and out which may becausing delays or issues and take corrective measures to ensure that they are resolved in a timely and efficient manner
+•	Ensuring compliance with all customs and regulatory requirements for all shipments and maintaining accurate and up-to-date records for the same
+•	Coordinating with internal stakeholders such as production, sales, and finance teams to ensure that all freight requirements are met on time and within budget
+•	Managing relationships with all freight forwarders and shipping carriers and ensuring that all SLAs are met
+•	Conducting regular audits of all freight-related processes and procedures to identify areas for improvement and implementing corrective actions as necessary.
+"
+Operation Manager,"Education Details
+•	August 2000
+•	B.E. Electronics
+•	Pune Maharashtra
+•	Pune University
+Experience Details
+•	Operations Manager
+•	Delta Controls Dubai FZCO
+•	Company: Delta Controls Dubai FZCO
+•	Description: Heading Pune Branch
+•	M/s Deltannex Integrators Pvt Ltd
+•	From Aug 17 till date
+•	Designation: Operations Manager
+Roles and Responsibilities:
+•	Reporting to the GM Operations
+•	Reviewing Statement of Work (SOW), Request for Quotation (RFQ), assisting the proposal team with engineering man-hours, project schedule, organization chart, and pre-sales support
+•	Reviewing SOW, RFQ, client's purchase order, and contract terms and conditions
+•	Creating project execution plans in consultation with clients and consultants
+•	Conducting kick-off meetings and ad hoc meetings with clients
+•	Evaluating projects in terms of outlays and profits
+•	Establishing a project management framework
+•	Managing contractual and commercial issues related to the project
+•	Monitoring, reviewing, and reporting project progress
+•	Coordinating and prioritizing team activities
+•	Monitoring the project budget
+•	Implementing quality management systems and processes
+•	Liaising with and reporting to clients
+•	Monitoring and complying with invoicing schedules
+•	Compiling and submitting change orders, waivers, and concessions, and handling variation claims
+•	Approving material receipt notes (MRN) and following up with the procurement team
+•	Planning and coordinating site activities
+•	Ensuring final payment and project closure
+•	Providing constant feedback to the proposal team based on lessons learned
+•	Preparing project management reports on planned vs. actual progress and scheduled variances on a biweekly and monthly basis
+•	Reporting critical issues to the GM
+•	Maintaining high levels of client satisfaction by staying in contact with clients
+•	Adhering to company policies, procedures, and ethics codes and ensuring their implementation within the team
+•	Transferring projects to the project team with proper internal kick-off and providing all necessary information
+•	Handling clarification emails and phone calls with customers
+•	Conducting site visits for sales and technical discussions
+•	Coordinating with accounts for tender bonds, if required
+•	Submission of offers and tenders
+•	Attending technical queries, revisions, and changes from customers
+•	Managing revisions of offers, costing, and submittals
+Company: Honeywell Automation India Ltd
+•	Description: May 2015 to June 2016 at Honeywell Seoul, South Korea
+Roles and Responsibilities:
+•	Discussing work forecasts with Honeywell Korea LE, PM, and Engineering Manager, and communicating them to GES stakeholders
+•	Understanding project work pack scope and collecting design inputs from Honeywell Korea PM and LE
+•	Communicating project work pack scope and sending design inputs to GES stakeholders (OM, EM)
+•	Assisting GES office in preparing estimations for GES scope of activities
+•	Discussing GES estimations with Honeywell Korea PM and LE
+•	Coordinating between GES and Honeywell Korea PM and LE to agree on estimations
+•	Assisting GES in preparing job aids (JAs)
+•	Coordinating with Honeywell Korea PM and PC to obtain purchase orders as per JA
+•	Coordinating with GES and Honeywell Korea for various project execution activities, including resolving queries, communicating requirements and schedules, handling change orders, and ensuring quality of deliverables
+•	Preparing and sending monthly progress reports to stakeholders
+•	Arranging monthly teleconferences with Honeywell Korea PAS Business Leader, Engineering Manager, and GES Operations Manager
+•	Attending project review meetings with PM, LE, and EPC, when required
+•	Assisting Honeywell Korea Sales Proposal team in understanding GES capabilities and providing required information
+•	Reviewing customer RFQs and ensuring requirements are captured in proposals or informing the proposal team
+•	Attending estimation review meetings and technical clarification meetings
+•	Working on various projects, including FGP WPMP, Grain LNG LF, AMC to HPM Migration MX8800, AMC to HPM Migration CCR1, Utilities and Offsites, Control Plant 3, Control Plant 6, and Graphics Development
+•	Projects Completed at Honeywell India:
+•	Project HONEYWELL Role: Project Highlights
+•	FGP WPMP
+Client: TCO MUSTANG
+•	HONEYWELL Team Lead
+•	System: EPKS DCS SIS FGS
+•	Job: HARDWARE Configuration C-300 Application Development
+•	Timely delivery of deliverables after ensuring quality check
+•	Attending weekly project review meetings with the client
+•	Note: The project is still in the staging phase, so the scope of work is not clear.
+•	Grain LNG LF
+Client: CBI National Grid UK
+•	HONEYWELL Team Lead
+•	System: EPKS DCS SIS FGS C-300 Controller
+•	Job: Planning and monitoring engineering activities, including design and development of hardware, system architecture, heat and load calculation, BOM, wiring schedule, and C-300 application development
+•	Timely delivery of deliverables after ensuring quality check
+•	Attending weekly project review meetings with the client
+•	Successfully completed the fast-track project and received appreciation from the client
+•	AMC to HPM Migration MX8800
+Client: Thai Oil Public Co Ltd
+•	HONEYWELL Team Lead
+•	System: TPS HPM Controller
+•	Job: Planning and monitoring engineering activities, including loop drawing design, logic point building, PU calculation, IO allocation, and HPM database preparation
+•	Timely delivery of deliverables after ensuring quality check
+•	Attending weekly project review meetings with the client
+•	AMC to HPM Migration CCR1
+Client: Thai Oil Public Co Ltd
+•	HONEYWELL Team Lead
+•	System: TPS HPM Controller
+•	Job: Planning and monitoring engineering activities, including loop drawing design, logic point building, PU calculation, IO allocation, and HPM database preparation
+•	Timely delivery of deliverables after ensuring quality check
+•	Attending weekly project review meetings with the client
+•	Utilities and Offsites
+Client: ENPPI
+•	End Client: ETHYDCO, Egypt
+•	HONEYWELL Team Lead
+•	System: Experion R410, Redundant Controllers
+•	Job: Planning hardware engineering activities, software engineering, and HMI development
+•	Responsible for hardware engineering, BOM preparation, and answering client queries
+•	Attending weekly project status meetings with the client
+•	Successfully completed FAT in Abu Dhabi
+•	Control Plant 3
+Client: JBK Controls
+•	End Client: Qatar Foundation, Qatar
+•	HONEYWELL Team Lead
+•	System: ML200 R PLC, Experion R410 for SCADA
+•	Job: Monitored wiring schematic preparation, control panel manufacturing, internal testing, FDS and FAT document development
+•	Performed quality checks for wiring schematics, FDS, and FAT document
+•	Delivered all the deliverables on time
+•	Successfully completed Pre FAT and FAT in the presence of the client from Qatar
+•	Control Plant 6
+Client: JBK Controls
+•	End Client: Qatar Foundation, Qatar
+•	HONEYWELL Team Lead
+•	Job: Monitored wiring schematic preparation, control panel manufacturing, internal testing, FDS and FAT document development
+•	Performed quality checks for wiring schematics, FDS, and FAT document
+•	Delivered all the deliverables on time
+•	Successfully completed Pre FAT and FAT in the presence of the client from Qatar
+•	No-H Side Utility Tunnel HVAC System
+Client: JBK Controls
+•	End Client: Qatar Foundation, Qatar
+•	HONEYWELL Team Lead
+•	Job: Monitored wiring schematic preparation, control panel manufacturing, internal testing, FDS and FAT document development
+•	Performed quality checks for wiring schematics, FDS, and FAT document
+•	Delivered all the deliverables on time
+•	Successfully completed Pre FAT and FAT in the presence of the client from Qatar
+•	Truck Marshalling Area HVAC System
+Client: JBK Controls
+•	End Client: Qatar Foundation, Qatar
+•	HONEYWELL Team Lead
+•	Job: Monitored wiring schematic preparation, control panel manufacturing, internal testing, FDS and FAT document development
+•	Performed quality checks for wiring schematics, FDS, and FAT document
+•	Delivered all the deliverables on time
+•	Successfully completed Pre FAT and FAT in the presence of the client from Qatar
+•	Graphics Development
+Client: Chevron Oronite Singapore
+•	Team Lead
+•	Job: Prepared estimations for graphics development using EPKS HMIWEB Display Builder
+•	Completed development activities within the schedule with a team of 3 engineers
+•	Performed quality checks for all 66 graphics
+•	Delivered the developed graphics as per the schedule with very few defects/comments from the clients
+Company: Fox Controls
+•	Description: Worked as a foundation member for this startup business by contacting local customers and providing services as per their requirements. Also worked as the Management Representative for maintaining the ISO 9001:2008 Quality System. Carried out internal audits for all departments in the company in 2011.
+Company: Enercon India Limited
+•	Completed 7 projects with capacities ranging from 1.2 MW to 8.4 MW as a Commissioning Leader
+•	Gained experience with inverter-converter systems and various power devices like IGBTs and thyristors
+•	Handled SAP system
+Additional Responsibilities
+•	Strategically planning and analyzing basic requirements for setting up technical infrastructure for projects and reviewing project proposals
+•	Accountable for PLC and SCADA-based application development
+•	Engineering and commissioning of process plants using PLC, drives, and SCADA
+•	Documentation of engineering details related to the project
+•	Organizing and managing resources, creating estimates, work breakdown structure, project plans, and schedules
+•	Interacting with customers/clients, providing technical advice and feedback, and capturing high-level requirements
+•	Schedule tracking and ensuring timely project delivery
+•	Coordinating with work teams, internal/external parties, and validating technical parameters
+•	Ensuring adherence to defined scope, quality, time, and cost constraints
+•	Identifying risks and suggesting corrective actions
+•	Carrying out work measurements and providing technical validation
+•	Proficient in various documentation processes
+•	Resource utilization and coordination
+Trainings Completed
+•	FOX CONTROLS training
+"
+Operation Manager,"Education Details
+•	BCA - Vinayaka Missions University
+Experience Details
+•	Operations Manager
+•	BNY Mellon International Operations India Pvt Ltd
+Company: BNY Mellon International Operations India Pvt Ltd
+•	Description: BNY Mellon provides a broad range of products and services in the areas of Investment Management, Investment Services, and Treasury Services. The Line of Business (LOB) Revenue and Billing Services (R&BS) is a Global Center of Excellence that generates invoices and collects fee revenue from Investment Services clients. There are 218 staff across five locations: Brooklyn, Pittsburgh, Syracuse, Pune, and the UK. Various businesses supported include Asset Servicing, Corporate Trust, Treasury Services, Broker Dealer Services, and Global Collateral Management.
+Job Profile: Operations Manager
+BNY Mellon International Operations India Pvt Ltd
+
+Responsibilities:
+•	Responsible for daily operations of the Billing Department providing services to institutional clients globally
+•	Led a team of professionals responsible for accurate and timely account setups and invoice production on billing platforms like Advantage, Fiserv, FiRRe, and SunGard
+•	Tasked with improving service quality and reducing overall unbilled revenue
+•	Provide guidance to staff in their professional development plans through coaching and feedback
+•	Other responsibilities include audit, business resumption planning, evaluating emerging technologies, fee contract reviews and negotiations with vendors, human resources, hiring, performance management, employee personal development, rewards and recognition programs, and defining the strategic direction of the business unit
+•	Operations Service Delivery Management
+•	Monitor client KYC and compliance for institutional clients
+•	Manage, support, and train the team in drafting and reviewing standard operating procedures to ensure compliance with US and global regulations for billing
+•	Assist clients with contract reviews and negotiations
+•	Monitor, analyze, and draft metrics reports on a weekly/monthly basis to track compliance progress for senior management
+•	Coordinate with internal stakeholders and draft responses to escalated inquiries and client requests
+•	Participate in Risk and Control Self Assessments (RCSA) concurrence meetings for the LOB
+•	Take accountability as the first line of defense for operational risk events (OREs)
+•	Perform root cause analysis of issues and document them accordingly for incident reporting
+•	Ensure service delivery standards are always met (Green SLA TAT)
+•	Monitor employee productivity, efficiency, and performance management
+•	Initiate goal-setting exercises for the operations team in the LOB
+•	Provide direction to employees according to established policies and management guidance
+•	Consistently meet with onshore and offshore stakeholders to provide real-time updates
+•	Organize meetings with functional peer groups to discuss monthly management information system (MIS)
+•	Actively involved in hiring and resource management for all levels within the department
+•	Oversee the Employee Assistance Program (EAP) for underperforming employees
+•	End-to-end performance management of staff during semiannual and annual appraisals
+•	Established training and development as a top priority goal for the department and secured senior management funding
+•	Reduced new hire to on-the-job competency from three months to two by introducing e-learning modules and Brainshark presentations
+•	Encouraged the team to understand and communicate the company's vision and competitive strategy for driving business
+•	Initiated quarterly RCSA concurrence reviews with all process stakeholders
+•	Project Management and Transitions Management.
+•	Worked as a project manager in BNY Mellon PMO to manage the transitions of Billing Operations
+•	Responsibilities included understanding expectations, technology documentation, assessing capacity and skillset, executing transition plans, process timelines, SLAs, and escalation matrix
+•	Ensured smooth go-live and conducted regular review meetings post-transition
+•	Conducted analysis on projects to determine ROI and viability before presenting to Senior Operations Directors
+•	Conceptualized and implemented strategies for capturing project and program metrics and funneling information to easy-to-understand dashboards
+•	Provided direct management oversight for a team of 11 employees, 8 of whom were direct reports
+•	Worked directly with the Information Technology Architecture team to identify strategic project breakdowns within the program
+•	Ensured adherence to project management and toll gate frameworks
+•	Ensured users of the Operations team get required application access
+•	Determined lessons learned through post-project reviews and integrated findings into program plans
+•	Talent Management and Team Function.
+•	Restructured organizational design to differentiate roles, develop career paths, and enable easy work rotation
+•	Performed skill gap analysis to identify training and development opportunities
+•	Ensured participation in and tracked effectiveness of training programs
+•	Developed and implemented function-wide rewards and recognition programs
+•	Previous Job Profiles in BNY MELLON during overall tenure: Assistant Manager and Team Leader
+•	Line of Business (LOB): Global Corporate Trust Billing, Enterprise Billing Unit, Alternate Investment Services (AIS), Broker Dealer Services (BDS), Sub Custodian Fee Billing.
+•	Managed multiple teams for different sub-functions within the billing department
+•	Responsibilities included assigning daily work, ensuring equal distribution of sub-activities, quality checks, working on efficiency projects, monitoring emails, conducting monthly one-on-ones and team meetings, mentoring team members, managing performance appraisals, actively participating in audits, attending concurrence meetings for RCSA, etc.
+Work Experience
+Company: Wipro Technologies
+Description: Client: Microsoft
+•	Worked as an Application Support Engineer (Tier II)
+•	Provided technical support to Siebel CRM users across the globe from Microsoft Corp
+•	Communicated with users to understand their environment and challenges, troubleshoot issues, and provide solutions
+•	Utilized existing structure to translate ticket categories and group names to the system structure
+•	Identified and escalated issues to Tier III production support teams when required
+•	Ensured all Siebel CRM user sites were up and running by utilizing proactive monitoring tools, increasing customer uptime to 95%
+•	Trained new engineers in providing proactive support to users
+•	Compiled data and department metrics into reports for management examination (MIS reporting)
+•	Coordinated with the development team and business users for system deployment and modifications
+•	Actively participated in STB QTP testing during application version releases
+•	Performed periodic application health checks, tested, implemented, and supported database replication
+•	Maintained consistent ETA of 85% month-on-month for help desk tickets within a 24-48 hour time span
+•	Ensured the knowledge base repository was regularly updated for troubleshooting issues
+Work Experience
+Company: Dell Global Financial Services
+•	Description: for Dell Computer Corporation (Aug 29th, 2005 - Feb 2007)
+•	Worked as an Account Receivables Senior Associate for DELL Inc.
+•	Handled a portfolio of about 500 U.S. corporate customers
+•	Managed a team of 8 senior credit controllers
+•	Conducted coaching and guidance sessions for the controllers
+•	Minimized credit losses by effectively collecting delinquent accounts
+•	Handled escalations through emails and phone calls
+•	Identified late-stage delinquent accounts and resolved issues through appropriate correspondence
+•	Performed ledger account reviews, discussed interim and annual appraisals, researched and resolved problem transactions
+•	Maintained records of account changes resulting from negotiations on the collection of outstanding accounts
+•	Released orders with credit task codes from assigned queues
+•	Mentored new hires and assisted team members in improving performance
+•	Led conference calls with customers and internal departments to discuss account issues and resolutions
+•	Attended weekly and monthly review calls with management to discuss process-related issues and improvements
+•	Organized team-building activities and acted as HR and Transport SPOC for the COE
+Work Experience
+Company: GE Capital International Services (GECIS)
+•	Description: GE Capital is the financial services unit of General Electric, providing commercial lending, leasing, and financial services for various industries.
+•	Made outbound calls and sent emails to inform institutional clients about delinquent payments
+•	Developed one-point lessons for key customers and shared them with the team
+•	Maintained a 95% accuracy rate throughout the year
+•	Generated daily reports on the team's performance and revenue improvement opportunities
+•	Acted as the first level of escalation for any issues in the absence of the manager
+•	Served as the single point of contact (SPOC) for HR issues within the team.
+"
+Operation Manager,"Key Competencies:
+•	Multi Operations Management
+•	People Management
+•	Customer Services
+•	Emails
+•	MIS
+•	Vendor Client Services Management
+•	Cross Functional Coordination
+•	Banking Financial Services
+•	Transaction Monitoring
+•	ATM Operations                           
+•	Prepaid Card Operations
+•	Pre-Issuance
+•	Post-Issuance
+•	POS Operations
+Job Profile:
+•	Manager Operations, Zaggle Prepaid Ocean Services Pvt Ltd (Oct 2017 - Present)
+•	Service Manager Operations, Yalamanchili Software Exports Ltd (Dec 2015 - Feb 2017)
+Skills:
+•	Effective communicator with excellent relationship building and interpersonal skills
+•	Strong analytical, problem-solving, and organizational abilities
+•	Extensive experience in managing operations with demonstrated leadership qualities and organizational skills
+•	Customer-centric operations management ensuring customer satisfaction by achieving service quality norms
+•	Risk analysis and management of delinquencies with dexterity, applying techniques for maximizing recoveries and minimizing credit losses
+•	Analyzing and identifying training needs of team members, and developing, organizing, and conducting training programs to improve their performance
+•	Preparing and maintaining daily MIS reports to evaluate the performance and efficiency of the process related to various verticals
+•	Measuring the performance of the processes in terms of efficiency and effectiveness matrix and ensuring adherence to SLA
+Experience:
+•	Manager Operations, Zaggle Prepaid Ocean Services Pvt Ltd (Oct 2017 - Present)
+•	Managed card operations for prepaid cards
+•	Coordinated with different software teams, including CTL prime Axis Bank Credit Cards, Insight for POS Machine technical operations for Amex, MID TID Generation ATOS Venture Infotek, Ticket Management System TATA Communications Private Services Ltd ATM NOC Operations, and Branch Portal Yalamanchili Software Exports Ltd Prepaid Cards SBI Bank Zaggle Prepaid Oceans Services Ltd Zaggle Prepaid Ocean Services Pvt Ltd
+•	Defined processes for field services and monitored necessary checks
+•	Measured vendor SLA by analyzing the TAT of vendors and the client SLA provided to us
+•	Handled vendor payment issues and ensured payments are processed on a quarterly basis
+•	Planned and executed each skill of operations in accordance with the department's policies and procedures
+•	Managed relationships with business teams, software development teams, and other services to achieve project objectives
+•	Service Manager Operations, Yalamanchili Software Exports Ltd (Dec 2015 - Feb 2017)
+•	Managed operations for prepaid cards in the payment industry
+•	Ensured PIN generation SLA is maintained and chargeback cases are raised in a timely manner
+•	Managed email customer services properly and ensured the emails are replied to effectively
+•	Monitored transaction monitoring 24/7
+•	Assisted bankers from SBI and associated banks for their BCP plans by getting them executed in the system with the help of DR PR plans or any other business requirements
+•	Maintained the highest level of quality in operations, ensuring adherence to all quality parameters and procedures as per the stringent norms
+•	Led, managed, and supervised the execution of external audit engagements and presented findings to senior management and clients
+•	Coached and mentored 20 team members to perform at a higher level by providing opportunities for personal and professional growth
+•	Designed and conducted training programs to enhance operational efficiency and retain talent by providing optimum opportunities for personal and professional growth
+•	Team Leader Executive, Ma Foi I Smart (Aug 2006 - Oct 2009)
+•	Worked in the emails, phone banking, correspondence unit, and snail mail departments
+Education:
+•	Commerce, Mumbai University
+"
+Operation Manager,"Education Details:
+•	B.Com (Commerce), Mumbai University, Maharashtra
+•	DIM (Business Management), IGNOU
+IT Skills:
+•	Well-versed with MS Office and internet applications
+•	Proficient in various ERP systems implemented in the companies, including SAGE, Flotilla LM ERP, Tally 9, WMS, and Exceed 4000
+Skill Details:
+•	Employee Resource Group: 6 months of experience
+•	Enterprise Resource Planning: 6 months of experience
+•	ERP: 6 months of experience
+•	MS Office: 6 months of experience
+•	Tally: 6 months of experience
+Company Details:
+Company: Landmark Insurance Brokers Pvt Ltd
+•	Description: One of India's largest insurance brokerage firms with offices across 24 states PAN India and a part of the Landmark Group with an annual turnover of 2200 cr.
+•	Position: Operations Manager
+•	Duration: Jan 2019 till date
+Key Responsibilities:
+•	Leading and overseeing a team of 12 people to ensure that the correct work processes and TAT are followed with regards to complete insurance handling from cheque submission right up to policy issuance and support to all offices PAN India for Motor and Health Insurance
+•	Ensuring all the data entry of customers is correctly done by the customer service
+•	Underwriting of documents and verification (Health, Motor)
+•	Costings of insurance products
+•	Follow-ups with insurance companies
+•	Customer complaint handling and solutions
+•	MIS reporting
+•	Ensuring the team is working in line with the operations SOP
+•	Conducting weekly briefing with the team
+•	Liaising with all PAN India offices for all operational support
+•	Handling daily cash transactions
+•	Reporting to the Vice President Operations
+Company: Trippereri Travels Tours
+•	Description: A startup travel agency company organizing local and international tours
+•	Position: Operations Manager
+•	Duration: Jan 2017 to Mar 2018
+Key Responsibilities:
+•	Looked after overall operations and administrative sales functions
+Company: Vish Hotel Supplies Pvt Ltd
+•	Description: A distributor of hotel supplies to 5-star international hotel groups in India for hotel amenities from an international supplier to more than 50 hotels all across India.
+•	Position: Operations Manager (Supply Chain Logistics)
+•	Duration: Jan 2015 to Nov 2016
+Key Responsibilities:
+•	Complete Incharge of running the business from Shipping Imports warehousing right up to Distribution and overseeing all operational related activities for the company
+•	Overlooking and managing all aspects of the business and implementing procedures for successful shipping inventory management at the warehouse delivery of material all India plus exports
+•	Overseeing all vendor negotiations in addition to the customs warehouse and cha
+•	Negotiating with Freight forwarders for best freight rates and quickest delivery times
+•	Overseeing the clearance of import shipments and export shipments and liaising with freight forwarders
+•	Ensuring that all government and tax compliances are adhered to by the company
+•	Ensuring that all benefits of government rebates and duty schemes are received and availed by the customer and company as per the EXIM license held
+•	Overseeing that all customers are satisfied with the overall supplies and services of the company
+•	Ensuring that all obstacles faced in the supply chain management are smoothed out for hassle-free delivery to the customers across India
+•	Overseeing accounts payables and receivables
+•	Overseeing that all stock is maintained in the warehouses and accounting books as per implemented procedures
+•	Sourcing out new vendors with high-quality manufacturing capabilities for new product manufacture
+•	Visiting customers to survey customer satisfaction and address any shortfalls
+•	HR function like recruitment, interviewing, finalizing candidates for the company
+Company: GEA Ecoflex Middle East FZE
+•	Description: GEA Ecoflex part of the GEA Group Germany is one of the largest suppliers of process technology and components for the food and energy industries. As an international technology group, the company focuses on sophisticated production processes. GEA generates revenues in excess of EUR 5.7 billion annually.
+•	Position: Freight Management
+•	Duration: N/A
+Key Responsibilities:
+•	Acquire, develop, and enhance relationships for economical, faster modes of freight forwarding for various requirements of the company
+•	Developing pricing strategies with an eye towards maximizing company's profits by reducing its freight costs by negotiating the pricing for each individual sector with freight forwarders shipping carrier and ensuring timely delivery of goods to the respective destinations
+•	Manage and negotiate the import freight charges with various freight forwarders and airlines for Bulk Air shipments moving from Americas, Europe, Dubai, India, China, Other GCC Countries
+•	Identify possible snag loopholes for all consignments moving in and out which may becausing delays or issues and take corrective measures to ensure that they are resolved in a timely and efficient manner
+•	Ensuring compliance with all customs and regulatory requirements for all shipments and maintaining accurate and up-to-date records for the same
+•	Coordinating with internal stakeholders such as production, sales, and finance teams to ensure that all freight requirements are met on time and within budget
+•	Managing relationships with all freight forwarders and shipping carriers and ensuring that all SLAs are met
+•	Conducting regular audits of all freight-related processes and procedures to identify areas for improvement and implementing corrective actions as necessary.
+"
+Operation Manager,"Education Details
+•	August 2000: B.E. Electronics, Pune University, Pune, Maharashtra
+Experience Details
+•	Operations Manager
+•	Delta Controls Dubai FZCO
+Company: Delta Controls Dubai FZCO
+•	Description: Heading Pune Branch - M/s Deltannex Integrators Pvt Ltd (Aug 17 - Present)
+•	Designation: Operations Manager
+Responsibilities:
+•	Reporting to the GM Operations
+•	Reviewing Statement of Work (SOW), Request for Quotation (RFQ), project schedules, organization charts, and meeting clients for pre-sales support
+•	Reviewing SOW, RFQ, client's Purchase Order, and contract terms and conditions
+•	Developing project execution plans after thorough discussion with clients and consultants
+•	Conducting kick-off meetings and ad hoc meetings with clients
+•	Evaluating projects in terms of outlays and profits
+•	Ensuring an appropriate project management framework
+•	Managing all contractual and commercial issues related to the project
+•	Monitoring, reviewing, and reporting project progress
+•	Coordinating and fostering teamwork and prioritizing team activities
+•	Monitoring the project budget
+•	Applying quality management systems and processes
+•	Liaising with clients and reporting to them
+•	Monitoring and complying with invoicing schedules
+•	Compiling and submitting Change Orders, Waivers, and Concessions
+•	Approving Material Receipt Note (MRN) and following up with the procurement team
+•	Planning and coordinating site activities
+•	Receiving final payment and official project closeout
+•	Providing constant feedback to the proposal team based on lessons learned
+•	Preparing Project Management Reports based on planned vs. actual analysis and scheduled variances
+•	Reporting exception alerts to the GM on critical issues
+•	Maintaining contact with clients to ensure high levels of satisfaction
+•	Adhering to company policies, procedures, and business ethics codes and ensuring their implementation within the team
+•	Transferring the project to the Project Team with proper internal kick-off and providing all necessary information
+•	Handling clarification emails and phone calls with customers and their responses
+•	Conducting site visits for sales and technical discussions
+•	Coordinating with Accounts for tender bonds, if any
+•	Submission of offers and tenders
+•	Attending technical queries, revisions, and changes from customers
+•	Managing revisions of offers and costing
+Company: Honeywell Automation India Ltd
+•	Description: May 2015 - June 2016 at Honeywell, Seoul, South Korea
+Roles and Responsibilities:
+•	Discussing the work forecast with Honeywell Korea LE PM and Engineering Manager and communicating it to GES stakeholders
+•	Understanding project work pack scope and collecting required design inputs from Honeywell Korea PM and LE
+•	Communicating project work pack scope and sending required design inputs to GES stakeholders (OM, EM)
+•	Assisting GES office in preparing estimations for GES scope of activities
+•	Discussing GES estimation with Honeywell Korea PM and LE
+•	Coordinating between GES and Honeywell Korea PM and LE to agree on estimations
+•	Assisting GES in preparing Job Aids (JAs)
+•	Coordinating with Honeywell Korea PM and PC to get purchase orders as per JA
+•	Coordinating with GES and Honeywell Korea for various project activities, including understanding queries, communicating requirements and schedules, managing change orders, ensuring quality deliverables, following procedures and standards, and smooth project execution
+•	Preparing and sending monthly progress reports to stakeholders
+•	Arranging monthly teleconferences with Honeywell Korea PAS Business Leader, Engineering Manager, and GES Operations Manager
+•	Attending project review meetings with PM, LE, and EPC when required
+•	Assisting Honeywell Korea Sales Proposal team in understanding GES capabilities and providing required information
+•	Reviewing customer RFQs and ensuring all requirements are captured in proposals or informing the proposal team and project manager about requirements/comments
+•	Attending estimation review meetings, Technical Bid Evaluations (TBEs), and technical clarification meetings when required
+•	Projects Completed at Honeywell India
+Project 1:
+•	Role: Project Lead
+•	Highlights: FGP WPMP
+•	Client: TCO MAC MUSTANG
+•	Honeywell Team Lead: System EPKS DCS SIS FGS
+•	Job: Hardware Configuration, C-300 Application Development
+•	Timely delivery of deliverables after ensuring quality check
+•	Attending weekly project review meetings with the client
+•	The project is still in the staging phase, so the scope of work is not very clear
+Project 2:
+•	Role: Team Lead
+•	Highlights: Grain LNG LF
+•	Client: CBI National Grid UK
+•	Honeywell Team Lead: Process LNG Tanker Loading System EPKS DCS SIS FGS C-300 Controller (1 No.)
+•	Job: Planning and monitoring engineering activities, design and development, system architecture, heat and load calculation, testing, attending project review meetings, ensuring timely delivery
+•	Successfully completed the project, received appreciation from the client
+Project 3:
+•	Role: Team Lead
+•	Highlights: AMC TO HPM Migration MX8800
+•	Client: Thai Oil Public Co Ltd
+•	Honeywell Team Lead: Process Furnace System TPS HPM Controller (1 No.)
+•	Job: Planning and monitoring engineering activities, loop drawing design, logic point building, PU calculation and IO allocation, testing, attending project review meetings, ensuring timely delivery
+•	Successfully completed the project, received appreciation from the client
+Project 4:
+•	Role: Team Lead
+•	Highlights: AMC TO HPM Migration CCR1
+•	Client: Thai Oil Public Co Ltd
+•	Honeywell Team Lead: Process Furnace System TPS HPM Controller (1 No.)
+•	Job: Planning and monitoring engineering activities, loop drawing design, logic point building, PU calculation and IO allocation, testing, attending project review meetings, ensuring timely delivery
+•	Successfully completed the project, received appreciation from the client
+Project 5:
+•	Role: Team Lead
+•	Highlights: Utilities and Offsites
+•	Client: ENPPI End Client: ETHYDCO, Egypt
+•	Honeywell Team Lead: Process Utilities for ETHYLENE plant, Experion R410 (2 Redundant Controllers 2 Nos., System Cabinets 4 Nos., Marshalling Cabinets 10 Nos., Redundant Servers 1 Pair, Experion Backup Restore 1 No., Process History Database 1 No., FDM Server 1 No., Engineering Station DCS 1 No., Operating Stations DCS 5 Nos.)
+•	Job: Planning hardware engineering, software engineering, and HMI development, BOM preparation, answering queries, attending project status meetings, ensuring timely delivery
+Project 6:
+•	Role: Team Lead
+•	Highlights: Control Plant 3 Control Plant 6
+•	Client: JBK Controls End Client: Qatar Foundation, Qatar
+•	Honeywell Team Lead: Process HVAC System, ML200 R PLC, Experion R410 (2 for SCADA only, Redundant Controllers 26 Nos., System Marshalling Cabinets 60 Nos., Redundant Servers 2 Pair, FDM Server 1 No., Engineering Station DCS 2 Nos., Operating Stations DCS 10 Nos.)
+•	Job: Monitoring wiring schematic preparation, control panel manufacturing, internal testing, FDS and FAT document development, quality checks, delivering deliverables, attending project review meetings
+Project 7:
+•	Role: Team Lead
+•	Highlights: AMC TO HPM Migration
+•	Client: Thai Oil Public Co Ltd
+•	Honeywell Team Lead: Process Furnace System TPS HPM Controller (1 No.)
+•	Job: Planning and monitoring engineering activities, loop drawing design, logic point building, PU calculation and IO allocation, testing, attending project review meetings, ensuring timely delivery
+•	Successfully completed the project, received appreciation from the client
+Company: Fox Controls
+•	Description: Startup business in Dubai, UAE
+Roles and Responsibilities:
+•	Contacting local customers and providing services as per their requirements
+•	Additional responsibility: Management Representative for maintaining the ISO 9001:2008 Quality System
+•	Conducting internal audits for all departments in the company in 2011
+Company: Enercon India Limited
+•	Description: Commissioning Leader
+•	Completed 7 projects with capacities ranging from 1.2 MW to 8.4 MW
+•	Hands-on experience with inverter and converter systems, power devices like IGBTs and thyristors, and SAP system
+"
+Operation Manager,"Education:
+•	BCA, Vinayaka Missions University
+Experience:
+•	Operations Manager, BNY Mellon International Operations India Pvt Ltd (Sept 2009 - present)
+•	Led a team of professionals responsible for accurate and timely account setups and invoice production for institutional clients globally
+•	Tasked with improving service quality and reducing overall unbilled revenue
+•	Monitored client KYCs and compliance monitoring for institutional clients
+•	Managed support and trained the team in drafting and reviewing standard operating procedures to ensure compliance with US and global regulations for billing
+•	Initiated quarterly risk and control self-assessments (RCSA) concurrence reviews with all process stakeholders
+•	Worked as a project manager in BNY Mellon PMO to manage the transitions of billing operations
+•	Restructured organization design to differentiate roles, develop career paths, and facilitate easy work rotation
+•	Managed multiple teams for different sub-functions within billing department
+•	Application Support Engineer (Tier II), Wipro Ltd (CLIENT: Microsoft)
+•	Provided technical support to Siebel CRM users across the globe from Microsoft Corp
+•	Communicated with users to obtain understanding of their environment and challenges to troubleshoot issues and provide solutions
+•	Trained new engineers in providing proactive support to users
+•	Compiled data and department metrics into reports for management examination of processes
+•	Coordinated development team with business users for system deployment and modifications
+•	Performed periodic application health checks
+•	Account Receivables Senior Associate, Dell Global Financial Services (Aug 2005 - Feb 2007)
+•	Handled a portfolio of about 500 US corporate customers and managed a team of 8 senior credit controllers
+•	Minimized credit losses by managing the team to collect delinquent amounts
+•	Handled escalations through emails and over the phone
+•	Mentored new hires and assisted team members in improving performance as required
+•	Set up and led conference calls with customers and other internal departments to discuss issues on accounts and derive measures to resolve them
+•	Outbound Caller, GE Capital International Services (GECIS)
+•	Made outbound calls and sent emails to inform institutional clients about their delinquent payments as per standard operating procedures
+•	Maintained 95% accuracy rate throughout the year
+•	Generated a daily report on the team's performance, which included ways and means of improvement in COE revenue
+Skills:
+•	Operations management
+•	Project management
+•	Transitions management
+•	Risk and control self-assessments
+•	Talent management
+•	Customer support
+•	Performance management
+•	Team leadership
+"
+Operation Manager,"Key Competencies:
+•	Multi Operations Management
+•	People Management
+•	Customer Services
+•	Emails
+•	MIS
+•	Vendor Client Services Management
+•	Cross Functional Coordination
+•	Banking Financial Services
+•	Transaction Monitoring
+•	ATM Operations
+•	Prepaid Card Operations
+•	Pre-Issuance
+•	Post-Issuance
+•	POS Operations
+Job Profile:
+•	Manager Operations, Zaggle Prepaid Ocean Services Pvt Ltd (Oct 2017 - Present)
+•	Service Manager Operations, Yalamanchili Software Exports Ltd (Dec 2015 - Feb 2017)
+Skills:
+•	Effective communicator with excellent relationship building and interpersonal skills
+•	Strong analytical, problem-solving, and organizational abilities
+•	Extensive experience in managing operations with demonstrated leadership qualities and organizational skills
+•	Customer-centric operations management ensuring customer satisfaction by achieving service quality norms
+•	Risk analysis and management of delinquencies with dexterity, applying techniques for maximizing recoveries and minimizing credit losses
+•	Analyzing and identifying training needs of team members, and developing, organizing, and conducting training programs to improve their performance
+•	Preparing and maintaining daily MIS reports to evaluate the performance and efficiency of the process related to various verticals
+•	Measuring the performance of the processes in terms of efficiency and effectiveness matrix and ensuring adherence to SLA
+Experience:
+•	Manager Operations, Zaggle Prepaid Ocean Services Pvt Ltd (Oct 2017 - Present)
+•	Managed card operations for prepaid cards
+•	Coordinated with different software teams, including CTL prime Axis Bank Credit Cards, Insight for POS Machine technical operations for Amex, MID TID Generation ATOS Venture Infotek, Ticket Management System TATA Communications Private Services Ltd ATM NOC Operations, and Branch Portal Yalamanchili Software Exports Ltd Prepaid Cards SBI Bank Zaggle Prepaid Oceans Services Ltd Zaggle Prepaid Ocean Services Pvt Ltd
+•	Defined processes for field services and monitored necessary checks
+•	Measured vendor SLA by analyzing the TAT of vendors and the client SLA provided to us
+•	Handled vendor payment issues and ensured payments are processed on a quarterly basis
+•	Planned and executed each skill of operations in accordance with the department's policies and procedures
+•	Managed relationships with business teams, software development teams, and other services to achieve project objectives
+•	Service Manager Operations, Yalamanchili Software Exports Ltd (Dec 2015 - Feb 2017)
+•	Managed operations for prepaid cards in the payment industry
+•	Ensured PIN generation SLA is maintained and chargeback cases are raised in a timely manner
+•	Managed email customer services properly and ensured the emails are replied to effectively
+•	Monitored transaction monitoring 24/7
+•	Assisted bankers from SBI and associated banks for their BCP plans by getting them executed in the system with the help of DR PR plans or any other business requirements
+•	Maintained the highest level of quality in operations, ensuring adherence to all quality parameters and procedures as per the stringent norms
+•	Led, managed, and supervised the execution of external audit engagements and presented findings to senior management and clients
+•	Coached and mentored 20 team members to perform at a higher level by providing opportunities for personal and professional growth
+•	Designed and conducted training programs to enhance operational efficiency and retain talent by providing optimum opportunities for personal and professional growth
+•	Team Leader Executive, Ma Foi I Smart (Aug 2006 - Oct 2009)
+•	Worked in the emails, phone banking, correspondence unit, and snail mail departments
+Education:
+•	Commerce, Mumbai University
+"
+Health & Fitness,"Education Details:
+•	January 1992 to January 2003: First year Science, St. Michael High, Mumbai Maharashtra
+Skill Details:
+•	Personal fitness trainer
+•	Level 3 personal trainer
+Company Details:
+Company: Gold's Gym Fitness Solution, Flora Hotel
+•	Description: Certification from American College of Sports Science, Gold's Gym Heart Saver, REPS Level 3
+•	Responsibilities: To obtain a challenging position which will commensurate with my qualification and experience in the field of health and fitness environment. A compliments Good Skills Used Fitness.
+"
+Health & Fitness,"Personal Skills:
+•	Good verbal and written communication skills
+•	Ability to deal with people diplomatically
+•	Willingness to learn
+Other Qualifications:
+•	Seema Institute: Ansalon Body massage and scalp, Swedish Thai body, Foot Reflexology, Aromatherapy (Completed course of 2 months)
+•	Talwalkars Fitness Academy with gym and aerobics (Completed 3 months course in fitness training)
+•	Radio Bhavan The Career Super Market: Hotel and Front Office Management (Completed course of 3 months)
+•	Slender Gender: Diploma in Spa Management (4 Months)
+Education Details:
+•	Fitness Trainer cum Team Leader, Think Healthy
+Skill Details:
+•	Job Responsibilities at Think Healthy:
+•	Perform related duties and responsibilities as assigned
+•	Achieve Fitness Goal
+•	Training people to do workouts in Gym
+•	Handling customer's queries related therapies, refreshers, etc.
+Company Details:
+Company: Think Healthy
+•	Description: Job Responsibilities: Perform related duties and responsibilities as assigned. Achieve Fitness Goal. Training people to do workouts in Gym. Handling customer's queries related therapies, refreshers, etc.
+Company: Raymond Gym
+•	Description: Job Responsibilities: Perform related duties and responsibilities as assigned. Handling customer's queries related therapies.
+Company: Aroma Thai Foot Spa
+•	Description: Job Responsibilities: Perform related duties and responsibilities as assigned. Handling customer's queries related therapies, refreshers, etc. Handled queries on phone as well as personally. Taking care of payment Invoices.
+Company: Global 1 Gym
+•	Description: Job Responsibilities: Perform related duties and responsibilities as assigned. Handling a team entire floor section. Achieve Fitness Goal. Training people to do workouts in Gym.
+Company: Rudraaksh Health Care Spa
+•	Description: Job Responsibilities: Perform related duties and responsibilities as assigned. Handling a team entire floor section. Achieve Fitness Goal. Training people to do workouts in Gym. Handling customer's queries related therapies, refreshers, etc. Handled queries on phone as well as personally. Taking care of payment Invoices.
+Company: Plaza Gym
+•	Description: Job Responsibilities: Perform related duties and responsibilities as assigned.
+Company: Hotel Windsor
+•	Description: No information provided.
+Company: Hotel Holiday Inn Juhu
+•	Description: Done Promotion for Aroma Thai Foot Spa 6 days World Trade Centre Bombay Exhibition Centre. Also done promotion at Bandra Kurla Complex Bandra Gym Khana. Promoted various products such as Spa, Health and Fitness Product, Garments, Imitation Jewellery, Food and Beverage, etc.
+"
+Health & Fitness,"Education Details:
+•	January 2009: P.G. Sports Science, Dr. BMN College of Home Science
+•	January 2008: B.Sc. Food Science Nutrition, Dr. BMN College of Home Science
+•	January 2004: HSC, Central Railway's Jr. College of Science and Commerce
+•	January 2002: SSC HISTORY, IES's Modern English School
+•	MSc Nutrition, College of Home Science
+Skill Details:
+•	9 years of experience as a nutritionist and health coach
+Company Details:
+Company: UGC NET
+•	Description:
+•	Career Objective: To use my qualifications as a nutritionist and health promoter to contribute to the well-being of individuals in the community
+•	UGC NET Certificate for Lectureship (Mar 2013)
+Skills Learnt:
+•	Working in a team environment
+•	Working as an individual
+•	Time management to ensure all customers are served sufficiently and all tasks are completed to a high standard
+•	Working under pressure and in a busy environment
+•	Personal presentation
+•	Communication Skills
+•	9 years of work experience at healthcare startups and health clubs has enhanced my communication skills through discussions with health and fitness professionals, clients, writing articles, and designing customized diet plans.
+•	Confident in communicating with people on all levels and ensuring their needs are met
+•	Leadership skills were developed in high school, college as a group leader where teamwork was essential, also conflict resolution skills were developed
+•	Oral Skills: Volunteering activities, leadership roles, and university requirements involved many public speaking opportunities. Communicating with the general public, asking them questions, and giving presentations has helped to further develop public speaking skills.
+"
+Health & Fitness,"Skills:
+•	Computer: Can easily operate in Operating System like Windows 10. Can work in MS Office Word, Excel, and PowerPoint. Can easily operate internet.
+•	Gym Management Software: Experience of 96 months.
+Education Details:
+•	January 2010: Advance Diploma in Hotel Management, J.W. Institute of Hotel Management
+Skill Details:
+•	Excel: Experience of 96 months
+•	PowerPoint: Experience of 96 months
+•	Word: Experience of 96 months
+Company Details:
+Company: Sculpt Fitness Centre
+Description:
+•	2015 - Present
+•	Sales, Fitness Operations
+Company: AB's Fitness Club
+Description:
+•	Fitness Sales Administration Facility Housekeeping
+Company: Ultimate Fitness Club
+•	Description: No additional information provided.
+Company: Tripod Fitness Arena
+•	Description: Sales Administration
+Company: C.K. Fitness
+•	Description: Sales Fitness Staff Recruitment
+Key Roles:
+•	Designing and promoting activities to meet customer demand and generate revenue
+•	Advertising and promoting the club or Centre to increase usage considering market research
+•	Recruiting, training, and supervising staff, including managing staff rotas
+•	Taking daily, weekly, monthly reporting from Fitness Manager, Sales Team Lead, and Housekeeping Head
+•	Carrying out health and safety checks on the equipment and site
+•	Retaining existing members by providing good quality of service and providing good sales programs
+•	Prioritizing target activities and user groups, especially in local authority Centres
+•	Customer Relationship Providing training to the sales staff to deal with enquiries, complaints, and emergencies
+•	Delivering some fitness training or coaching in sports activities, often a good way of maintaining contact with customers
+•	Preparing and checking budgets and generating revenue
+•	Cashing up and keeping stock records of supplements
+•	Utilizing Group X studio by scheduling exciting groupers batches
+•	Writing monthly or weekly reports and preparing cash projections for Centre owners
+•	Enhancing profitability by organizing and delivering an appropriate range of fitness activities programs
+•	Keeping statistical and financial records
+•	Keeping check on the Maintenance of fitness equipment and other facilities
+•	Ensuring compliance with health and safety legislation
+•	Maintaining customer service Fitness Hospitality standards
+•	Planning
+•	Undertaking administrative tasks
+•	Promoting and marketing the business
+Company: Endurance Fitness Club
+•	Description: Fitness Sales Administration Facility Housekeeping
+"
+Health & Fitness,"Education Details:
+•	January 2009: P.G. Sports Science, Dr. BMN College of Home Science
+•	January 2008: B.Sc. Food Science Nutrition, Dr. BMN College of Home Science
+•	January 2004: HSC, Central Railway's Jr. College of Science and Commerce
+•	January 2002: SSC HISTORY, IES's Modern English School
+•	MSc Nutrition, College of Home Science
+Skill Details:
+•	9 years of experience as a nutritionist and health coach
+Company Details:
+Company: UGC NET
+•	Description:
+•	Career Objective: To use my qualifications as a nutritionist and health promoter to contribute to the well-being of individuals in the community
+•	UGC NET Certificate for Lectureship (Mar 2013)
+Skills Learnt:
+•	Working in a team environment
+•	Working as an individual
+•	Time management to ensure all customers are served sufficiently and all tasks are completed to a high standard
+•	Working under pressure and in a busy environment
+•	Personal presentation
+•	Communication Skills
+•	9 years of work experience at healthcare startups and health clubs has enhanced my communication skills through discussions with health and fitness professionals, clients, writing articles, and designing customized diet plans.
+•	Confident in communicating with people on all levels and ensuring their needs are met
+•	Leadership skills were developed in high school, college as a group leader where teamwork was essential, also conflict resolution skills were developed
+•	Oral Skills: Volunteering activities, leadership roles, and university requirements involved many public speaking opportunities. Communicating with the general public, asking them questions, and giving presentations has helped to further develop public speaking skills.
+"
+Health & Fitness,"Skills:
+•	Computer: Can easily operate in Operating System like Windows 10. Can work in MS Office Word, Excel, and PowerPoint. Can easily operate internet.
+•	Gym Management Software: Experience of 96 months.
+Education Details:
+•	January 2010: Advance Diploma in Hotel Management, J.W. Institute of Hotel Management
+Skill Details:
+•	Excel: Experience of 96 months
+•	PowerPoint: Experience of 96 months
+•	Word: Experience of 96 months
+•	Gym Management Software: Experience of 96 months
+Company Details:
+Company: Sculpt Fitness Centre
+•	Description:
+•	2015 - Present
+•	Sales, Fitness Operations
+Company: AB's Fitness Club
+Description:
+•	Fitness Sales Administration Facility Housekeeping
+Company: Ultimate Fitness Club
+•	Description: No additional information provided.
+Company: Tripod Fitness Arena
+•	Description: Sales Administration
+Company: C.K. Fitness
+•	Description: Sales Fitness Staff Recruitment
+Key Roles:
+•	Designing and promoting activities to meet customer demand and generate revenue
+•	Advertising and promoting the club or Centre to increase usage considering market research
+•	Recruiting, training, and supervising staff, including managing staff rotas
+•	Taking daily, weekly, monthly reporting from Fitness Manager, Sales Team Lead, and Housekeeping Head
+•	Carrying out health and safety checks on the equipment and site
+•	Retaining existing members by providing good quality of service and providing good sales programs
+•	Prioritizing target activities and user groups, especially in local authority Centres
+•	Customer Relationship Providing training to the sales staff to deal with enquiries, complaints, and emergencies
+•	Delivering some fitness training or coaching in sports activities, often a good way of maintaining contact with customers
+•	Preparing and checking budgets and generating revenue
+•	Cashing up and keeping stock records of supplements
+•	Utilizing Group X studio by scheduling exciting groupers batches
+•	Writing monthly or weekly reports and preparing cash projections for Centre owners
+•	Enhancing profitability by organizing and delivering an appropriate range of fitness activities programs
+•	Keeping statistical and financial records
+•	Keeping check on the Maintenance of fitness equipment and other facilities
+•	Ensuring compliance with health and safety legislation
+•	Maintaining customer service Fitness Hospitality standards
+•	Planning
+•	Undertaking administrative tasks
+•	Promoting and marketing the business
+Company: Endurance Fitness Club
+•	Description: Fitness Sales Administration Facility Housekeeping
+"
+Health & Fitness,"Education Details:
+•	January 2018: M.S. Nutrition and Exercise Physiology, New York, NY, Teachers College, Columbia University
+•	January 2016: B.S. Nutrition and Dietetics, Miami, FL, Florida International University
+•	January 2011: B.Sc. General Microbiology, Pune, Maharashtra, Abasaheb Garware College
+Skill Details:
+•	Group Fitness Instructor, India
+•	Group Fitness Instructor, Columbia University
+Company Details:
+Company: Columbia University
+Description:
+•	Present
+•	Organized high-energy weight training, cardiovascular, and indoor cycling classes accommodating participants of varying age groups, cultural backgrounds, and fitness levels to help achieve their fitness goals
+Company: Columbia Dental School
+•	Description: Provided detailed nutrition counseling and telephonic follow-up to dental patients with accompanying metabolic conditions like diabetes, hypertension, and obesity.
+"
+Health & Fitness,"Education Details:
+•	January 2009: P.G. Sports Science, Dr. BMN College of Home Science
+•	January 2008: B.Sc. Food Science Nutrition, Dr. BMN College of Home Science
+•	January 2004: HSC, Central Railway's Jr. College of Science and Commerce
+•	January 2002: SSC HISTORY, IES's Modern English School
+•	MSc Nutrition, College of Home Science
+Skill Details:
+•	9 years of experience as a nutritionist and health coach
+Company Details:
+Company: UGC NET
+•	Description:
+•	Career Objective: To use my qualifications as a nutritionist and health promoter to contribute to the well-being of individuals in the community
+•	UGC NET Certificate for Lectureship (Mar 2013)
+Skills Learnt:
+•	Working in a team environment
+•	Working as an individual
+•	Time management to ensure all customers are served sufficiently and all tasks are completed to a high standard
+•	Working under pressure and in a busy environment
+•	Personal presentation
+•	Communication Skills
+•	9 years of work experience at healthcare startups and health clubs has enhanced my communication skills through discussions with health and fitness professionals, clients, writing articles, and designing customized diet plans.
+•	Confident in communicating with people on all levels and ensuring their needs are met
+•	Leadership skills were developed in high school, college as a group leader where teamwork was essential, also conflict resolution skills were developed
+•	Oral Skills: Volunteering activities, leadership roles, and university requirements involved many public speaking opportunities. Communicating with the general public, asking them questions, and giving presentations has helped to further develop public speaking skills.
+"
+Health & Fitness,"Education Details:
+•	May 2014: Diploma Nutrition Education, Bengaluru, Karnataka, IGNOU University
+•	June 2004: Bachelor of Science Clinical Nutrition and Dietetics, Bengaluru, Karnataka, Smt. VHD Institute of Home Science
+•	Health and Wellness Coach
+•	Advance PG diploma in Clinical Research, Clinical Data Management and SAS
+Skill Details:
+•	Motivate players (GOQii subscribers) to make a permanent shift to a healthier lifestyle and enhance health, nutrition, and karma
+•	Track and analyze player's lifestyle and fitness data captured through the GOQii band
+•	Design custom wellness/fitness goals mutually with players and coach them in meeting these goals
+•	Interact with GOQii players on a daily basis via GOQii App text/audio
+•	Counselling to individuals on nutrition status, providing diet instructions to clients, and impact on eating nutrition
+•	Create and present in-services to the clients
+•	Handling enquiries from customers/distributors through emails, letters, telephone, etc.
+Company Details:
+Company: GOQii Technologies Ltd
+•	Description:
+•	Motivate players (GOQii subscribers) to make a permanent shift to a healthier lifestyle and enhance health, nutrition, and karma
+•	Track and analyze player's lifestyle and fitness data captured through the GOQii band
+•	Design custom wellness/fitness goals mutually with players and coach them in meeting these goals
+•	Interact with GOQii players on a daily basis via GOQii App text/audio
+Company: VIA Health Marketing Innovations
+Description:
+•	Conduct Maternal Nutritional Counselling Camps with practicing Gynaecologists at different hospitals/clinics allotted by the medical representative
+•	Conveying the Importance of every nutrient required during this time and foods that contain this type of nutrients
+•	Coordinating with the Area Branch Manager and in turn reporting to the ViaMedia Manager with the daily reports
+Company: LifeKonnect Department, United Health Care India Pvt Ltd
+Description:
+•	LifeKonnect business offers Health Checkups across 800 Cities, 3000 Diagnostic Centres, and leaders in this business and also looks into the Operations organizing supervising medicals for customers of different Insurance companies whose medical come under the rule regulation of IRDA MNYL Iinsurance BAXA life Insurance METLIFE insurance
+•	To proactively monitor the deferrals and ensure that they are done within the stipulated timeline
+•	Ensuring a high level of professionalism through proactive Customer relationship management by resolving their queries and complaints in a fair manner within the specified time
+•	Coordinating with the Lifekonnect members from different centers and in turn reporting to the Team leader
+Company: VLCC HealthCare Ltd
+Description:
+•	Counselling to individuals on nutrition status, providing diet instructions to clients, and impact on eating nutrition
+•	Create and present in-services to the clients
+•	Handling enquiries from customers/distributors through emails, letters, telephone, etc.
+•	Preparing Payment Bills for the customers
+•	Assisting the Slimming Manager in conference calls to discuss Nutritional care plans and Nutrition education
+•	Coordinating with the sales members and in turn reporting to the Sales Manager.
+"
+Health & Fitness,"Education Details:
+•	January 2009: P.G. Sports Science, Dr. BMN College of Home Science
+•	January 2008: B.Sc. Food Science Nutrition, Dr. BMN College of Home Science
+•	January 2004: HSC, Central Railway's Jr. College of Science and Commerce
+•	January 2002: SSC HISTORY, IES's Modern English School
+•	MSc Nutrition, College of Home Science
+Skill Details:
+•	9 years of experience as a nutritionist and health coach
+Company Details:
+Company: UGC NET
+•	Description:
+•	Career Objective: To use my qualifications as a nutritionist and health promoter to contribute to the well-being of individuals in the community
+•	UGC NET Certificate for Lectureship (Mar 2013)
+Skills Learnt:
+•	Working in a team environment
+•	Working as an individual
+•	Time management to ensure all customers are served sufficiently and all tasks are completed to a high standard
+•	Working under pressure and in a busy environment
+•	Personal presentation
+•	Communication Skills
+•	9 years of work experience at healthcare startups and health clubs has enhanced my communication skills through discussions with health and fitness professionals, clients, writing articles, and designing customized diet plans.
+•	Confident in communicating with people on all levels and ensuring their needs are met
+•	Leadership skills were developed in high school, college as a group leader where teamwork was essential, also conflict resolution skills were developed
+•	Oral Skills: Volunteering activities, leadership roles, and university requirements involved many public speaking opportunities. Communicating with the general public, asking them questions, and giving presentations has helped to further develop public speaking skills.
+
+"
+Testing,"Objective: To secure a challenging position as an Electrical Engineer and contribute my skills and knowledge to the growth of the organization.
+Skills:
+•	Good logical and analytical skills
+•	Positive attitude towards solving problems and accepting challenges
+•	A team player and leader
+•	A good organizer
+•	Testing Engineer
+•	Electrical Engineer
+Personal Details:
+•	Date of Birth: 20-07-1995
+•	Marital Status: Single
+Education:
+•	BE Electrical, Sinhagad Institute of Technology, Pune, Maharashtra, July 2015 to June 2018
+•	Diploma in Electrical Engineering, K B P Polytechnic, Kopargaon, Maharashtra, January 2012
+•	SSC, S G Vidyalaya, State Board, January 2010
+Experience:
+•	Company: Intelux Electronics Pvt Ltd
+•	Description: Power management system Testing department.
+"
+Testing,"Objective:
+To obtain a challenging position as a Software Test Engineer where I can utilize my computer proficiency, programming skills, and experience in testing to contribute to the success of the company.
+Summary:
+•	Proficient in MS Office, including PowerPoint, Word, Outlook, and Excel
+•	Knowledge of programming languages: C, CPP, Java
+•	Basic understanding of Networking and command of Linux
+•	Experienced in Selenium, Automation Testing, Selenium Webdriver, Manual Testing, and Regression Testing
+•	Belief in teamwork, both as a team member and a leader
+•	Hardworking and ethical worker
+Strengths:
+•	Belief in teamwork, both as a team member and a leader
+•	Hardworking and ethical worker
+Education details:
+•	B.E. Yeshwantrao Chavan, Nagpur, Maharashtra, Nagpur University, January 2013 to January 2016
+•	Diploma Aggregate, Maharashtra State
+•	S.S.C. Education, Nagpur, Maharashtra, Maharashtra State
+Project details:
+Minor Project:
+•	Title: Applocker for Android
+•	Project Area: Android Application
+•	Description: Applocker provides the protection of the System applications as well as the Third party applications installed in the Android devices. The password protection is provided with the help of patterns of volume keys. Hence an extra measure of privacy is acquired.
+Major Project:
+•	Title: Online Complaint System For Cyber Crimes
+•	Project Area: Android Application
+•	Description: Online Complaint System for Cyber Crimes is an android application that will be in use after a person lodged a complaint in Police station regarding cybercrime but no action has been taken against it within the prescribed time constraint. Such person will directly use this application which will help him/her to directly lodge the complaint to Commissioner Office and it will get stored in the Commissioner's database, and necessary action will be taken against it.
+Experience details:
+•	Company: Maxgen Technologies
+•	Description: I'm a Software Test Engineer working at Maxgen Technologies from the past 1 year.
+"
+Testing,"Objective:
+To secure a position as a Testing Engineer where I can utilize my computer skills, electrical engineering knowledge, and experience in testing to contribute to the success of the company.
+Summary:
+•	Proficient in MS Office Word and Basic Excel
+•	Hardworking, loyal, creative, self-motivated, and responsible
+•	Good people management skill and positive attitude
+•	Knowledge of Windows and Internet
+Education details:
+•	Bachelor of Electrical Engineering, Guru Gobind Singh College of Engineering and Research Centre, Nashik, Maharashtra
+•	Diploma in Electrical Engineering, S M E S Polytechnic College, Nashik, Maharashtra
+Skill details:
+•	Testing Engineer
+•	Excel (6 months experience)
+•	MS Office (6 months experience)
+•	Word (6 months experience)
+Experience details:
+Company: [Company name]
+•	Description: Department Testing
+Responsibilities:
+•	To check ACB and VCB of Circuit Breaker
+•	Following test conducted of Circuit Breaker as per drawing
+•	To check breaker timing
+•	To check contact resistance using contact resistance meter CRM
+•	To check breaker insulation resistance IR
+•	To check breaker rack out and rack in properly or not
+•	To check closing and tripping operation work properly or not
+•	To check and following test conducted in MCC PCC panel
+•	Insulation Resistance IR test
+•	Contact Resistance CRM test
+•	To check connection on m p panel as per drawing
+•	To check and following test conducted in transformer
+•	Insulation Resistance IR test
+•	Transformer Ratio test
+•	Transformer Vector Group test
+•	Magnetic Balance test
+•	Magnetic Current test
+•	To check the transformer tapping remotely as well as manually
+•	To check the all alarm and tripping protection command work properly or not as per circuit diagram
+•	To check and test conducted in HV cables
+•	Hi Pot test
+•	Insulation resistance IR test
+•	To check the LV cables using megger IR Test
+•	To check the relay connections as per circuit diagram
+•	Create the defects list which arising during the testing and try to find the solution to minimize the problem
+Company details:
+Company: Trans Power Solutions
+•	Description: Lake Site CO Op Soc Adi Shankaracharya Marg Opp IIT Main Gate Powai 400076.
+"
+Testing,"Objective:
+To secure a challenging position as a Testing Engineer or Electronics Engineer where I can utilize my skills and experience to contribute to the growth of the organization.
+Summary:
+•	Willingness to accept challenges
+•	Positive thinking
+•	Good learner
+•	Team player
+Education details:
+•	Electronics and Telecommunication Engineering, Shivaji University, Kolhapur, Maharashtra, June 2015
+•	Secondary and Higher Secondary Education, Jaywant College of Engineering and Management, June 2012
+Skill details:
+•	Testing Engineer
+•	Electronics Engineer
+•	Language: C, C++ (Less than 1 year experience)
+•	Operating Systems: Windows 7, 8, NT, XP (Less than 1 year experience)
+Experience details:
+Company: Abacus Electronics Pvt Ltd
+•	Description: Perform electronic system testing for acceptance, compliance, warranty, and other types. Develop test plans and procedures for electronic systems. Maintain complete and accurate documentation for system testing. Analyze and troubleshoot test defects in a timely fashion. Write system assembly instructions and resolve assembly issues accurately. Work with supervisors to plan and coordinate test activities. Evaluate system performance and suggest improvements. Understand and interpret drawings, schematics, technical manuals, and instructions. Also performed hardware testing and debugging of hardware PCBs. Follow company policies and safety regulations. Work with cross-functional teams to complete assigned job duties within deadlines. Recommend process improvements to enhance testing efficiency.
+Company: Minilec India Pvt Ltd, Pirangoot
+•	Description: Taking responsibility for the quality of a company's product. Working with the departmental manager, production staff, and suppliers to ensure quality. They aim to minimize the cost of reworking or waste and maximize customer satisfaction with the product. To establish, implement, and maintain a quality management system to measure and control quality in the production process. Work with the aim to eliminate the causes of quality issues and reduce the risk of failure.
+"
+Testing,"Objective:
+To secure a challenging position as a Testing and Quality Control Engineer where I can utilize my personal skills, leadership qualities, and technical knowledge to contribute to the growth of the organization.
+Summary:
+•	Quick learner
+•	Eagerness to learn new things
+•	Competitive attitude
+•	Good leadership qualities
+•	Ability to deal with people diplomatically
+Personal Dossier:
+•	Father's Name: Dhanraj Wagh
+Education details:
+•	Bachelors of Engineering, Pune University, Pune, Maharashtra, January 2012 to January 2016
+•	Higher Secondary Certificate, SND College of Engineering and Research Center, Nashik, Maharashtra, January 2012
+•	Secondary School Certificate, Swami Muktanand Jr College HSC, Yeola, Maharashtra, January 2010
+•	BE Rajapur Uttar Pradesh Madhyamik Vidya Mandir Rajapur
+Skill details:
+•	Testing and Quality Control Engineer
+Experience details:
+Company: M S Rakesh Transformer Industries Pvt Ltd
+•	Description: To conduct Routine test, Type Test, Temperature Rise Test, Special Test on Transformers as per IS/IEC up to 10 MVA, 33 KV Class, preparing its test reports. Routine tests, Type tests, and Special tests as per IS 2026, IS 1180, IS 11171, IEC 60076 test manual. Inspection plans of Power Transformers, Distribution Transformers, Inverter Duty, Converter Duty, Motor Duty Transformer, Furnace Transformer, Auto Transformers, Dry Type, VPI C LT Transformers, Special Transformers. Testing Remote Tap Changer Cubicle, CC Panel with OLTC and its operation, CTR, Esun, MR. Functional Testing of Transformer Accessories BR, PRV, MOG, WTI, OTI, and its Setting. In case of any failure in testing, analyze the root cause and submit the CAPA. Assist the customer or their representative at the time of inspection. In-process testing of winding core assembly and core coil assembly. Handling 3rd party and Government Body's Inspection. Preparation of Daily Internal Testing Reports and send to concern. Support Certification Audits ISO, BIS. Calibration validation of tools, instruments, measuring equipment. Suggest the client about proper maintenance of the transformer. Doing all documentation and Maintain Records and Analyze the Test Results and Maintain Testing Ledger. In-process Quality Inspection of Winding Core assembly, Core Coil assembly as per Standard and as per organizational Norms. Pre-Dispatch Quality Inspection of Complete Product. Implementation of WHY-WHY analysis.
+Company: M S Silverline Electricals Pvt Ltd
+•	Description: Routine tests, Type tests, Temperature Rise Test, and Special tests as per IS 2026, IS 1180 test manual. Inspection plans of Distribution Transformer, Power Transformer. Successfully handled responsibilities of ERDA's testing. On-site commissioning of Transformer. Assist the customer or their representative at the time of inspection. In-process testing of winding core assembly and core coil assembly. Successfully handling 3rd party and Government Body's Inspection. Preparation of Daily Internal Testing Reports and send to concern. Suggest the client about proper maintenance of the transformer.
+"
+Testing,"Objective:
+To secure a challenging position as a Quality Engineer where I can utilize my computer skills, software knowledge, and technical expertise to contribute to the growth of the organization.
+Summary:
+Proficient in MS Power Point, MS Office, C, Protius PCB Design, Multisim, Micro wind, Matlab, Keil, Latex, Basic Internet Fundamentals, Software, and Hardware Knowledge
+•	Experienced in MATLAB (6 months), PCB (6 months), and PCB Design (6 months)
+Education details:
+•	BE, Pune University, Pune, Maharashtra, January 2016
+•	SSC, Maharashtra Board, January 2010
+Project details:
+•	Diploma Project: Speed Control of DC Motor Using Heart Beats
+•	Mini Project: Water Gardening System Using Solar Panel
+•	Final Year BE Project: Iris Recognition System
+Skill details:
+•	Quality Engineer
+Experience details:
+Company: Matrix Technologies
+•	Description: Experienced in MATLAB (6 months), PCB (6 months), and PCB Design (6 months).
+"
+Testing,"Objective:
+To secure a challenging position as a Testing Engineer where I can utilize my skill set, technical knowledge, and experience to ensure the quality of software products and contribute to the growth of the organization.
+Summary:
+•	Operating Systems: Windows XP, 7, 8, 8.1, 10
+•	Database: MySQL, SQL Server 2005, 2008, 2012
+•	Languages: Core Java
+•	Web Technology: HTML, CSS
+•	Testing: Manual Testing, Database Testing
+•	Other: Bug tracking and reporting, End user handling
+Education details:
+•	MCS, P V P College Pravaranagar, Pune, Maharashtra, January 2016
+•	HSC, A K Junior College, January 2011
+•	SSC, A K Mahavidyalya JR, January 2009
+Skill details:
+•	Testing Engineer
+Experience details:
+Company: M Tech Innovations Ltd
+•	Description: Analyzing the Testing Requirements, Preparing Test Plans, Test Scenarios, Preparing Test Cases, Executing the test cases, Tracking bugs, Coordinating developers in order to fix it, Preparing test summary reports, Reporting quality manager, Attending meeting
+Projects:
+Project Name 1: Web Based Time Attendance Application
+•	Environment: Windows 7, Vista, Windows XP, Windows 8, Windows 10
+•	Clients: MCCIA, Sapphire Park, Bramha Suncity, Wanless hospital
+•	Role: Software Testing
+•	Duration: 6 months
+Project Name 2: Android 1 Time Attendance Application, 2 Vehicle Tracking System, 3 Visitor Management System
+•	Environment: Android Mobile, Android Tablet
+•	Clients: Vankan Security
+•	Role: Application Testing
+•	Duration: 6 months
+Project Name 3: Web Based Factory Automation Process, 2 Web Based Annual Maintenance Charges
+•	Environment: Windows 7, Vista, Windows XP, Windows 8, Windows 10
+•	Role: Software Testing
+•	Duration: 6 months
+Project Name 4: Web Based Library Management System
+•	Environment: Windows 7, Vista, Windows XP, Windows 8, Windows 10
+•	Role: Software Testing
+•	Duration: 6 months
+"
+Testing,"Objective:
+To obtain a challenging position as a Testing Engineer where I can utilize my logical and analytical skills, problem-solving abilities, leadership qualities, and organizational skills for the growth of the organization.
+Summary:
+•	Good logical and analytical skills
+•	Positive attitude towards solving problems and accepting challenges
+•	A team player and leader
+•	A good organizer
+Personal Details:
+•	Date of Birth: 20-07-1995
+•	Marital Status: Single
+Education details:
+•	BE Electrical, Sinhagad Institute of Technology, Pune, Maharashtra, July 2015 to June 2018
+•	Diploma, K B P Polytechnic, MSBTE, Kopargaon, Maharashtra, January 2012
+•	SSC, S G Vidyalaya State Board, January 2010
+Skill details:
+•	Testing Engineer
+•	Electrical Engineer
+Experience details:
+Company: Intelux Electronics Pvt Ltd
+•	Description: Power management system Testing department.
+"
+Testing,"Objective:
+To obtain a challenging position as a Testing Engineer where I can utilize my computer proficiency, programming skills, and testing experience to ensure the quality of software products and contribute to the growth of the organization.
+Summary:
+•	Basic knowledge of MS Office, PowerPoint, Word, Outlook, Excel
+•	Programming languages: Basics of C/C++, Java
+•	Basics of Networking, Basics command of Linux
+•	Experience in testing: Selenium, Automation Testing, Selenium Webdriver, Manual Testing, Regression Testing
+•	Android development experience: 6 months
+Strengths:
+•	Belief in teamwork both as a team member and a leader
+•	Hard and ethical worker
+Education details:
+•	B.E., Yeshwantrao Chavan Nagpur Maharashtra, Nagpur University, January 2013 to January 2016
+•	Diploma Aggregate, Maharashtra State
+•	S.S.C. Education, Nagpur Maharashtra, Maharashtra State
+Skill details:
+•	Testing Engineer
+Experience details:
+Company: Maxgen Technologies
+•	Description: Software Test Engineer, working at Maxgen technologies for the past 1 year.
+Project details:
+Minor Project Details:
+•	Title: Applocker for Android
+•	Project Area: Android Application
+•	Description: Applocker provides the protection of the System applications as well as the Third-party applications installed on the Android devices. The password protection is provided with the help of patterns of volume keys. Hence an extra measure of privacy is acquired.
+Major Project Details:
+•	Title: Online Complaint System For Cyber Crimes
+•	Project Area: Android Application
+•	Description: Online Complaint System for Cyber Crimes is an android application which will be in use after a person lodged a complaint in Police station regarding cybercrime but no action has been taken against it within the prescribed time constraint. Such a person will directly use this application which will help him/her to directly lodge the complaint to Commissioner Office, and it will get stored in the Commissioner's database, and necessary action will be taken against it.
+"
+Testing,"Objective:
+To secure a position as a Testing Engineer where I can utilize my computer skills, electrical engineering knowledge, and experience in testing to contribute to the success of the company.
+Summary:
+•	Proficient in MS Office Word and Basic Excel
+•	Hardworking, loyal, creative, self-motivated, and responsible
+•	Good people management skill and positive attitude
+•	Knowledge of Windows and Internet
+Education details:
+•	Bachelor of Electrical Engineering, Guru Gobind Singh College of Engineering and Research Centre, Nashik, Maharashtra
+•	Diploma in Electrical Engineering, S M E S Polytechnic College, Nashik, Maharashtra
+Skill details:
+•	Testing Engineer
+•	Excel (6 months experience)
+•	MS Office (6 months experience)
+•	Word (6 months experience)
+Experience details:
+Company: [Company name]
+•	Description: Department Testing
+Responsibilities:
+•	To check ACB and VCB of Circuit Breaker
+•	Following test conducted of Circuit Breaker as per drawing
+•	To check breaker timing
+•	To check contact resistance using contact resistance meter CRM
+•	To check breaker insulation resistance IR
+•	To check breaker rack out and rack in properly or not
+•	To check closing and tripping operation work properly or not
+•	To check and following test conducted in MCC PCC panel
+•	Insulation Resistance IR test
+•	Contact Resistance CRM test
+•	To check connection on m p panel as per drawing
+•	To check and following test conducted in transformer
+•	Insulation Resistance IR test
+•	Transformer Ratio test
+•	Transformer Vector Group test
+•	Magnetic Balance test
+•	Magnetic Current test
+•	To check the transformer tapping remotely as well as manually
+•	To check the all alarm and tripping protection command work properly or not as per circuit diagram
+•	To check and test conducted in HV cables
+•	Hi Pot test
+•	Insulation resistance IR test
+•	To check the LV cables using megger IR Test
+•	To check the relay connections as per circuit diagram
+•	Create the defects list which arising during the testing and try to find the solution to minimize the problem
+Company details:
+Company: Trans Power Solutions
+•	Description: Lake Site CO Op Soc Adi Shankaracharya Marg Opp IIT Main Gate Powai 400076.
+"
+Mechanical Engineer,"Education Details
+•	May 1999 to September 2002: Diploma in Mechanical Engineering, Mumbai Institute of Mechanical Engineering, Mumbai, Maharashtra
+•	May 1998 to May 1999: Diploma in Mechanical Engineering, Services ITES
+•	May 1993 to May 1995: Industrial Training Institute, Mumbai, Maharashtra
+Skill Details
+•	Microsoft Office (Word, Excel)
+•	AutoCAD
+•	Microstation
+•	J ERP
+•	3D Modeling software
+Experience Details
+•	Company: Mechanical Engineering
+•	Role: Application Engineering, Pre-Sales, Inside Sales
+Responsibilities:
+•	Provide applications support to inside sales personnel and outside sales channels
+•	Offer product selection and materials of construction technical recommendations
+•	Participate in necessary training activities to establish technical competency
+•	Assist Brand Managers and/or Product Managers as needed
+•	Support the Projects Quotations team by handling the technical part of project quotations, including selection, sizing, and costing of Pneumatic Automation Products (valves, linear and rotary actuators, field fabrication equipment) based on customer data sheets and engineering drawings
+•	Travel as required to support field sales channels and promote company products and services
+•	Perform detailed reviews of customer specifications, providing comments, clarifications, and alternatives to customer requirements
+•	Size and select valves, actuators, and prepare cost-effective techno-commercial quotations based on customers' technical requirements
+•	Coordinate with other technical departments to minimize technical and cost risks
+•	Send accurate and timely quotations, including all technical and commercial documentation as per customer requests
+•	Participate in customer negotiation processes, both commercial and technical
+•	Follow up on quotations to close the order and for payment collection
+•	Perform purchase order (PO) reviews to ensure accuracy and address any discrepancies with senior management and customers
+•	Create the order transfer file for submission to the factory in accordance with the PO
+•	Support the factory with post-order activities and after-sales service, if necessary, to maintain good customer service
+Company: Proposal Estimation Engineering
+Responsibilities:
+•	Review and receive RFQs for company products and solutions
+•	Estimate Pneumatic Automation Products projects, including valves, linear and rotary actuators, field equipment, piping, fabricated equipment, etc.
+•	Coordinate with vendors for quotations and continuous follow-up
+•	Apply design thumb rules and standard practices for accurate and time-efficient estimates
+•	Analyze and evaluate estimated costs and actual costs of past jobs to arrive at realistic cost estimates
+•	Maintain a databank of all quotations for easy access
+•	Coordinate with Instrumentation and Electrical departments for costing
+•	Handle estimation department and ensure timely submission of offers
+•	Visit sites for project requirements if required
+•	Coordinate with Purchase and Process departments
+•	Attend customer inquiries and meetings
+•	Develop vendors and prepare statements for pending estimations in progress
+•	Understand client's concerns, pain areas, and requirements
+•	Offer suitable, optimized, and tailor-made solutions with techno-commercial proposals
+•	Assign work to junior proposal executives and engineers
+•	Coordinate with design, CAD, sales, marketing, and project commercial departments
+Company: Engg Procurement Purchase Vendor Development Supply Chain
+Responsibilities:
+•	Procure steel, raw materials, and semi-finished products based on project requirements
+•	Improve negotiation processes and identify cost-saving opportunities
+•	Develop new vendors and obtain quotations
+•	Research and evaluate potential vendors and suppliers
+•	Request quotes and compare technical aspects and prices
+•	Maintain relationships with vendors and suppliers
+•	Examine and review products and supplies for quality assurance
+•	Digitize procurement processes and track purchasing plans, inventory, and deliveries
+•	Collaborate with the financial team on contracts, invoicing, and financial matters
+Company: Design Proposal Engineering
+Responsibilities:
+•	Execute projects, manage vendors, and ensure timely order actions
+•	Negotiate with vendors and develop new manufacturing processes and products
+•	Develop customized manufacturing solutions for the steel, power, cement, and petrochemical sectors
+•	Prepare technical data sheets as per tender specifications
+•	Calculate price structure and analyze cost proposals
+•	Monitor progress throughout the project and maintain customer relationships
+•	Review vendor evaluations, registrations, and product quality
+•	Design or modify mechanical and hydraulic/pneumatic assemblies
+•	Generate layouts, schematics, and detailed drawings
+•	Define, coordinate, perform, and generate engineering test reports and analysis
+•	Implement and ensure adherence to manufacturing processes and ISO standards
+•	Coordinate and communicate with channel partners, OEMs, dealers, consultants, and end customers
+•	Carry out internal audits, maintain records, and coordinate with HODs
+•	Coordinate with design teams for technically feasible solutions
+•	Offer design solutions and create technically feasible proposals
+Company: Fabrication Field Hoist Goods Lifts
+•	Description: Joist O Mech Engg Pvt Ltd, Rabale MIDC, Thane
+•	Role: Detailing, BOM Preparation, Prototype Manufacturing, 3D Modeling
+Company: Fabrication Field
+•	Description: Mukand Ltd, Kurla
+•	Role: Raw Material Inspection, Preparations of Gauge, Marking on Housing, Checking Surface Finishing
+"
+Mechanical Engineer,"Skills:
+•	Knowledge of software: AutoCAD, MSCIT
+•	CNC Programming: Fanuc Series milling
+Strengths:
+•	Strong dedication towards work
+•	Quick learner
+•	Positive thinking and self-confidence
+•	Honest, disciplined, and hardworking
+Industrial Experience:
+•	10 Days Industrial Training at Nagpur Agro Components, Hingna Road, Nagpur
+•	10 Days Industrial Training at Metal Fab High Tech Pvt Ltd, Hingna Road, Nagpur
+Extra-Curricular Activity:
+•	Participated in JSW Urja Project Competition 2017-2018
+•	Machine Assembly, Disassembly, and Functioning of Parts (1 Week)
+Education Details:
+•	B.E. in Mechanical Engineering, MNU
+Skill Details:
+•	AutoCAD (6 months experience)
+•	Automotive (6 months experience)
+•	Automotive CNC (6 months experience)
+•	CAD (6 months experience)
+•	CNC (6 months experience)
+Company Details:
+Company: Tata Motors, Adani, Maruti Suzuki, Jet Airways, Air India
+•	Description: I am a final year student of Mechanical Engineering and a fresher without any industry experience. However, I have completed a 10-day industrial training program in the 3rd and 5th semesters at Nagpur Agro Components, where I gained exposure to various machines and CNC machines. In the 6th semester, I underwent another training program at Metal Fab Company.
+Final Year Project:
+•	Design and fabrication of Pneumatic Punching Machine (BE)
+•	Paddle operated Sugarcane Juicer machine (Diploma Engineering)
+"
+Mechanical Engineer,"Education Details:
+•	January 2018: Bachelor's of Engineering (Engineering), Mumbai, Maharashtra
+•	MGM College of Engineering
+•	Diploma Mechanical, Pune, Maharashtra
+•	MIT
+Company: Full Throttle
+•	Description: Worked as the President of Mechanical Engineering Student's Association (MESA) in MIT Pune
+Company: R C Car Race of STEPCONE
+•	Description: Participated in a paper project contest and exhibition conducted by GMR Institute of Technology
+"
+Mechanical Engineer,"Education Details:
+•	June 2014 to June 2018: BE Mechanical Engineering, Pune, Maharashtra
+•	Savitribai Phule Pune University
+Skill Details:
+•	Microsoft Office
+•	AutoCAD
+•	CATIA
+•	Solidworks
+Experience:
+Company: Push Engineering Pvt Ltd
+•	Description: Currently working as a Mechanical Design Engineer in Push Engineering Pvt Ltd. Responsible for designing and manufacturing various types of ice-making plants using 3D modeling software. Tasks include designing pressure vessels, condensers, conveyors, and preparing Bills of Materials (BOM) using an ERP system.
+Company: Central Water and Power Research Station
+•	Description: Worked as a Research Assistant in the R&D Department of the Mechanical Workshop at Central Water and Power Research Station, Khadakwasla, Pune, Govt. of India. Gained experience in different projects related to the generation of sea waves in the laboratory, which are useful for the design of port and harbor structures. Involved in designing hydraulic and pneumatic systems for generating waves. Collaborated with scientists on the design of hydraulic systems, including servo actuators, axial piston pumps, and electric motors.
+Software Skills:
+•	AutoCAD
+•	CATIA V5
+•	MS Office
+•	ProE
+Extra-curricular Activity:
+•	Organized a National level Technical event in Mechanical Student Association (MESA)
+•	Coordinator and Treasurer of MESA
+•	Attended a 3D printing workshop in college
+•	Completed Work Readiness Training conducted by NASSCOM Foundation and Global Talent Track in college
+•	Completed Life Skills Training conducted by NASSCOM Foundation and Global Talent Track in college
+Personal Attributes:
+•	Positive Attitude
+•	Quick Learner
+•	Team Leader
+"
+Mechanical Engineer,"Education Details:
+•	January 2016: B.E. Mechanical Engineering
+•	Alamuri Ratnamala Institute of Engineering Technology
+•	January 2010: H.S.C.
+•	Mumbai, Maharashtra
+•	Mumbai University
+•	January 2008: S.S.C.
+•	Prakash Jr College of Science Commerce, S.M.T Rajdevi Hindi High School
+•	Maharashtra State Board
+Skill Details:
+•	AutoCAD
+•	Solidworks
+•	CATIA
+Experience:
+Company: Sanarco Engineering Pvt Ltd
+•	Description: Worked as a Mechanical Design Engineer for 1 year at Sanarco Engineering Pvt Ltd. Currently working at Surya Fitness as a Design Engineer. Involved in a major project focused on an Automatic Wall Plastering Machine. This automated plastering machine simplifies and accelerates the plastering process, making it easier, faster, and more efficient compared to manual application. The machine works with conventional cement mortar and delivers a smooth, flat finish.
+"
+Mechanical Engineer,"Skills:
+•	Knowledge of computer software, including AutoCAD
+•	Diploma in Academic Syllabus MSCIT
+•	CNC Programming (Fanuc Series milling)
+Strengths:
+•	Strong dedication towards work
+•	Quick learner
+•	Positive thinking and self-confidence
+•	Honest, disciplined, and hardworking
+Industrial Experience:
+•	10 Days Industrial Training at Nagpur Agro Components, Hingna Road, Nagpur
+•	10 Days Industrial Training at Metal Fab High Tech Pvt Ltd, Hingna Road, Nagpur
+Extra-curricular Activity:
+•	Participated in the JSW Urja Project Competition 2017-2018
+•	Machine Assembly, Disassembly, and Functioning of parts (1 Week)
+Education Details:
+•	B.E. MNU Mechanical Engineering
+Skill Details:
+•	AutoCAD (6 months experience)
+•	Automotive (6 months experience)
+•	Automotive CNC (6 months experience)
+•	CAD (6 months experience)
+•	CNC (6 months experience)
+Company Details:
+•	Tata Motors
+•	Adani
+•	Maruti Suzuki
+•	Jet Airways
+•	Air India
+Description:
+•	Currently a student of mechanical engineering in the final year, without any prior industry experience.
+•	Underwent a 10-day industrial training program during the 3rd year, gaining exposure to the industry.
+•	Undertook a 10-day training program in the 5th semester at Nagpur Agro Components, where I observed various machines and CNC machines.
+•	Participated in another training program in the 6th semester at Metal Fab company.
+•	Fluent in English, Hindi, and Marathi.
+•	Participated in the JSW Urja Project Competition, focusing on machine assembly, disassembly, and functioning of parts for one week.
+•	Final year project: Designed and fabricated a Pneumatic Punching Machine in B.E. and a paddle-operated sugarcane juicer machine in Diploma Engineering.
+"
+Mechanical Engineer,"Education Details:
+•	January 2018: Bachelor's of Engineering (Engineering), MGM College of Engineering, Mumbai, Maharashtra
+•	Diploma in Mechanical Engineering, MIT, Pune, Maharashtra
+Skill Details:
+•	President of Mechanical Engineering Student's Association, MGM College of Engineering
+•	President of Mechanical Engineering Student's Association, MIT, Pune
+Company Details:
+Company: Full Throttle
+•	Description: Conducted by IIT Bombay
+•	Role: Worked as President of Mechanical Engineering Student's Association (MESA) in MIT Pune
+Company: R C Car Race of STEPCONE
+•	Description: Paper project contest and exhibition conducted by GMR Institute of Technology
+"
+Mechanical Engineer,"Education Details:
+•	June 2014 to June 2018: BE Mechanical Engineering, Pune, Maharashtra
+•	Savitribai Phule Pune University
+Skill Details:
+•	Microsoft Office
+•	AutoCAD
+•	CATIA
+•	Solidworks
+Experience:
+Company: Push Engineering Pvt Ltd
+•	Description: Currently working as a Mechanical Design Engineer in Push Engineering Pvt Ltd. Responsible for designing and manufacturing various types of ice-making plants using 3D modeling software. Tasks include designing pressure vessels, condensers, conveyors, and preparing Bills of Materials (BOM) using an ERP system.
+Company: Central Water and Power Research Station
+•	Description: Worked as a Research Assistant in the R&D Department of the Mechanical Workshop at Central Water and Power Research Station, Khadakwasla, Pune, Govt. of India. Gained experience in different projects related to the generation of sea waves in the laboratory, which are useful for the design of port and harbor structures. Involved in designing hydraulic and pneumatic systems for generating waves. Collaborated with scientists on the design of hydraulic systems, including servo actuators, axial piston pumps, and electric motors.
+Software Skills:
+•	AutoCAD
+•	CATIA V5
+•	MS Office
+•	ProE
+Extra-curricular Activity:
+•	Organized a National level Technical event in Mechanical Student Association (MESA)
+•	Coordinator and Treasurer of MESA
+•	Attended a 3D printing workshop in college
+•	Completed Work Readiness Training conducted by NASSCOM Foundation and Global Talent Track in college
+•	Completed Life Skills Training conducted by NASSCOM Foundation and Global Talent Track in college
+Personal Attributes:
+•	Positive Attitude
+•	Quick Learner
+•	Team Leader
+"
+Mechanical Engineer,"Education Details:
+•	January 2016: B.E. Mechanical Engineering
+•	Alamuri Ratnamala Institute of Engineering Technology
+•	January 2010: H.S.C.
+•	Mumbai, Maharashtra
+•	Mumbai University
+•	January 2008: S.S.C.
+•	Prakash Jr College of Science Commerce, S.M.T Rajdevi Hindi High School
+•	Maharashtra State Board
+Skill Details:
+•	AutoCAD
+•	Solidworks
+•	CATIA
+Experience:
+Company: Sanarco Engineering Pvt Ltd
+•	Description: Worked as a Mechanical Design Engineer for 1 year at Sanarco Engineering Pvt Ltd. Currently working at Surya Fitness as a Design Engineer. Involved in a major project focused on an Automatic Wall Plastering Machine. This automated plastering machine simplifies and accelerates the plastering process, making it easier, faster, and more efficient compared to manual application. The machine works with conventional cement mortar and delivers a smooth, flat finish.
+"
+Mechanical Engineer,"Education Details:
+•	May 1999 to September 2002: Diploma in Mechanical Engineering, Mumbai Maharashtra Institute of Mechanical Engineering
+•	May 1998 to May 1999: Diploma in Mechanical Engineering, Services ITES
+•	May 1993 to May 1995: Mumbai Maharashtra Industrial Training Institute
+Skill Details:
+•	Microsoft Office
+•	AutoCAD
+•	Word
+•	Excel
+•	AutoCAD
+•	Microstation
+•	J ERP
+•	3D Modeling software
+Experience:
+Company: Mechanical Engineering
+•	Description: Role Responsibilities in Application Engineering, Pre-Sales, Inside Sales, and Vendor Management
+Responsibilities:
+•	Provide applications support to inside sales personnel and outside sales channels
+•	Provide product selection and technical recommendations for materials of construction
+•	Participate in necessary training activities to establish technical competency
+•	Assist Brand Managers and Product Managers as needed
+•	Take an active role in the Projects Quotations team, responsible for the technical part of project quotations
+•	Travel as required to support the field sales channel and promote Company products and services
+•	Perform detailed reviews of customer specifications and provide comments, clarifications, and alternatives
+•	Sizing and selection of valves, actuators, and prepare cost-effective techno-commercial quotations
+•	Coordinate with other technical departments to minimize technical and cost risk
+•	Send quotations accurately and on time, including all technical and commercial documentation
+•	Participate in customer negotiation processes, including commercial and technical negotiations
+•	Follow up on quotations, close orders, and manage payment collection
+•	Perform PO reviews to ensure correctness and escalate any discrepancies to senior management and customers
+•	Create the order transfer file for submission to the factory in accordance with PO
+•	Support the factory with post-order activities and after-sales service to ensure good customer service
+Company: Proposal Estimation Engineering
+
+•	Description: Role Responsibilities in Proposal Estimation, Product Costing, and Vendor Management
+Responsibilities:
+•	Review and receive RFQs for company products and solutions
+•	Estimate projects involving Pneumatic Automation Products, valves, linear rotary actuators, and field equipment
+•	Follow up with vendors for quotations and maintain a database of all quotations
+•	Analyze and evaluate estimated cost and actual cost to arrive at realistic cost estimates
+•	Coordinate with Instrumentation and Electrical departments for costing
+•	Handle estimation department, submit offers on time, and attend customer meetings
+•	Develop vendors and maintain statements of pending enquiries
+•	Understand customer requirements and offer suitable solutions with techno-commercial proposals
+•	Coordinate with design, CAD, sales, marketing, and project commercial departments
+Company: Rotex Engineers Manufacturing Pvt Ltd
+•	Description: Role Responsibilities in Project Management, Vendor Development, and Product Development
+Responsibilities:
+•	Manage and enhance activities related to the proposal of pneumatic fabrication projects
+•	Manage project execution, vendor development, and supply chain management
+•	Interact with vendors to ensure timely action of orders and negotiate with them
+•	Develop customized manufacturing solutions for the steel, power, cement, and petrochemical sectors
+•	Prepare technical data sheets, calculate price structures, and analyze cost proposals
+•	Monitor progress throughout the job and maintain relationships with existing customers
+•	Review vendor evaluation, registration, and examine products and supplies to ensure quality
+Company: Design Proposal Engineering
+•	Description: Role Responsibilities in Project Execution, Vendor Management, and Mechanical Design
+Responsibilities:
+•	Execute projects, manage the supply chain, and interact with vendors to ensure timely actions
+•	Design or modify mechanical assemblies, hydraulic and pneumatic assemblies, and fabricated assemblies
+•	Generate electrical or mechanical product specifications, SOPs, and maintenance manuals
+•	Participate in growth by developing innovative solutions and coordinating with different departments
+•	Perform engineering test reports, analysis, and ensure manufacturing processes are followed
+•	Maintain records of non-conformities, obsolete documents, and ISO documents
+•	Coordinate and communicate with channel partners, dealers, consultants, and end customers
+•	Carry out internal audits and maintain records of controlled drawings
+Company: Fabrication Field Hoist Goods Lifts
+•	Description: Role Responsibilities in Detailing, BOM Preparation, and Prototype Manufacturing
+Responsibilities:
+•	Detailing of drawings, preparation of BOM, and raw material inspection
+•	Prototype manufacturing and 3D modeling
+Company: Fabrication Field
+•	Description: Company MUKAND LTD, Kurla
+Responsibilities:
+•	Raw material inspection, preparation of gauges for inspection, and checking surface finishing.
+"
