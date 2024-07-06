@@ -1,0 +1,40 @@
+2024-07-03 16:26:42,723 - __main__ - INFO - Setting the directory path started
+2024-07-03 16:26:42,735 - __main__ - INFO - Setting the directory path completed
+2024-07-03 16:28:58,603 - __main__ - INFO - Setting the directory path started
+2024-07-03 16:28:58,622 - __main__ - INFO - Setting the directory path completed
+2024-07-03 16:28:58,645 - __main__ - INFO - Loading the images and setting the class paths started
+2024-07-03 16:31:01,693 - __main__ - INFO - Loading the images and setting the class paths completed
+2024-07-03 16:31:01,709 - __main__ - INFO - checking shape of images started
+2024-07-03 16:31:01,715 - __main__ - INFO - checking shape of images completed
+2024-07-03 16:31:01,731 - __main__ - INFO - Plot 10 random images started
+2024-07-03 16:31:04,102 - __main__ - INFO - Plot 10 random images completed
+2024-07-03 16:31:04,128 - __main__ - INFO - Count the number of images in each class started
+2024-07-03 16:31:04,766 - __main__ - INFO - Count the number of images in each class completed
+2024-07-03 16:31:04,780 - __main__ - INFO - Mapping the target attribute started
+2024-07-03 16:31:04,863 - __main__ - INFO - Mapping the target attribute completed
+2024-07-03 16:31:04,892 - __main__ - INFO - Train Test Spliting started
+2024-07-03 16:31:05,092 - __main__ - INFO - Train Test Spliting completed
+2024-07-03 16:31:05,097 - __main__ - INFO - Train Validation Spliting started
+2024-07-03 16:31:05,214 - __main__ - INFO - Train Validation Spliting completed
+2024-07-03 16:31:05,285 - __main__ - INFO - Scaling and reshaping the input and target variables started
+2024-07-03 16:31:06,249 - __main__ - INFO - Scaling and reshaping the input and target variables completed
+2024-07-03 16:31:06,261 - __main__ - INFO - Traning and Evaluation of ResNet50 Started
+2024-07-03 16:33:44,804 - __main__ - INFO - Loss for <function ResNet50 at 0x7e634deb24d0> during evalution: 0.018803352490067482
+2024-07-03 16:33:44,809 - __main__ - INFO - Accuracy for<function ResNet50 at 0x7e634deb24d0>  during evalution: 0.9974226951599121
+2024-07-03 16:33:47,537 - __main__ - INFO - Loss for <function ResNet50 at 0x7e634deb24d0> during Validation: 0.018089190125465393
+2024-07-03 16:33:47,543 - __main__ - INFO - Accuracy for <function ResNet50 at 0x7e634deb24d0> during Validation: 0.9951691031455994
+2024-07-03 16:33:50,445 - __main__ - INFO - Traning and Evaluation of ResNet50 Completed
+2024-07-03 16:33:50,449 - __main__ - INFO - Traning and Evaluation of VGG19 Started
+2024-07-03 16:38:32,058 - __main__ - INFO - Loss for <function VGG19 at 0x7e634deb3910> during evalution: 0.005150048993527889
+2024-07-03 16:38:32,061 - __main__ - INFO - Accuracy for<function VGG19 at 0x7e634deb3910>  during evalution: 1.0
+2024-07-03 16:38:36,429 - __main__ - INFO - Loss for <function VGG19 at 0x7e634deb3910> during Validation: 0.02288438193500042
+2024-07-03 16:38:36,433 - __main__ - INFO - Accuracy for <function VGG19 at 0x7e634deb3910> during Validation: 0.9951691031455994
+2024-07-03 16:38:39,251 - __main__ - INFO - Traning and Evaluation of VGG19 Completed
+2024-07-03 16:38:39,264 - __main__ - INFO - Plotting Accuracy and Loss Curve for ResNet50 Started
+2024-07-03 16:38:39,701 - __main__ - INFO - Plotting Accuracy and Loss Curve for ResNet50 Completed
+2024-07-03 16:38:39,704 - __main__ - INFO - Plotting Accuracy and Loss Curve for VGG19 Started
+2024-07-03 16:38:40,146 - __main__ - INFO - Plotting Accuracy and Loss Curve for VGG19 Completed
+2024-07-03 16:38:40,162 - __main__ - INFO - Plotting Actual and Predicted for ResNet50 Started
+2024-07-03 16:38:41,728 - __main__ - INFO - Plotting Actual and Predicted for ResNet50 Completed
+2024-07-03 16:38:41,733 - __main__ - INFO - Plotting Actual and Predicted for VGG19 Started
+2024-07-03 16:38:43,898 - __main__ - INFO - Plotting Actual and Predicted for VGG19 Completed
