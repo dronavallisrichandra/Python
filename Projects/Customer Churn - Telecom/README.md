@@ -7,3 +7,4 @@ The goal is to develop a predictive model that can accurately predict customer c
 **Data Description:**
 The company has provided you with a dataset containing historical customer data, including demographic information, service usage, billing details, and customer churn status. The dataset consists of the following features:
 
+![image](https://github.com/dronavallisrichandra/Python/assets/22862988/66355342-6851-482f-881d-324317fe2eed)
