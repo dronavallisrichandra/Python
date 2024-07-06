@@ -1,0 +1,55 @@
+2024-07-03 19:46:50,335 - __main__ - INFO - Importing the dataset into a dataframe started
+2024-07-03 19:46:50,429 - __main__ - INFO - Importing the dataset into a dataframe Completed
+2024-07-03 19:46:50,569 - __main__ - INFO - Overiew of the dataset started :
+
+2024-07-03 19:46:50,700 - __main__ - INFO - Overiew of the dataset completed :
+
+2024-07-03 19:46:50,731 - __main__ - INFO - Impute missing values Started
+2024-07-03 19:46:50,842 - __main__ - INFO - Impute missing values Completed
+2024-07-03 19:46:50,863 - __main__ - INFO - Understanding the Object data and its values Started
+2024-07-03 19:46:50,927 - __main__ - INFO - Understanding the Object data and its values Completed
+2024-07-03 19:46:50,956 - __main__ - INFO - Updating the Customer Status of 'Stayed', 'Joined' to 'No Churn' and 'Churned' to 'Churn'  started
+2024-07-03 19:46:50,987 - __main__ - INFO - Updating the Customer Status of 'Stayed', 'Joined' to 'No Churn' and 'Churned' to 'Churn'  completed
+2024-07-03 19:46:51,003 - __main__ - INFO - Exploratory Data Analysis started
+2024-07-03 19:46:51,278 - __main__ - INFO - Understanding the Categorical,  Numerical, Categorical but Cardinal Columns started
+2024-07-03 19:46:51,317 - __main__ - INFO - Categorical Columns:
+2024-07-03 19:46:51,326 - __main__ - INFO - ['Customer ID', 'Gender', 'Married', 'City', 'Offer', 'Phone Service', 'Multiple Lines', 'Internet Service', 'Internet Type', 'Online Security', 'Online Backup', 'Device Protection Plan', 'Premium Tech Support', 'Streaming TV', 'Streaming Movies', 'Streaming Music', 'Unlimited Data', 'Contract', 'Paperless Billing', 'Payment Method', 'Cancellation Category', 'Cancellation Reason']
+2024-07-03 19:46:51,333 - __main__ - INFO - Numerical Columns:
+2024-07-03 19:46:51,342 - __main__ - INFO - ['Age', 'Number of Dependents', 'Zip Code', 'Latitude', 'Longitude', 'Number of Referrals', 'Tenure in Months', 'Avg Monthly Long Distance Charges', 'Avg Monthly GB Download', 'Monthly Charge', 'Total Charges', 'Total Refunds', 'Total Extra Data Charges', 'Total Long Distance Charges', 'Total Revenue', 'Customer Status']
+2024-07-03 19:46:51,350 - __main__ - INFO - Categorical but Cardinal Columns:
+2024-07-03 19:46:51,414 - __main__ - INFO - ['Customer ID', 'City', 'Cancellation Reason']
+2024-07-03 19:46:51,418 - __main__ - INFO - Understanding the Categorical,  Numerical, Categorical but Cardinal Columns completed
+2024-07-03 19:46:51,434 - __main__ - INFO - Dropping the Categorical but Cardinal Columns started
+2024-07-03 19:46:51,445 - __main__ - INFO - Remaining Columns:
+2024-07-03 19:46:51,469 - __main__ - INFO - Index(['Gender', 'Age', 'Married', 'Number of Dependents', 'Zip Code',
+       'Latitude', 'Longitude', 'Number of Referrals', 'Tenure in Months',
+       'Offer', 'Phone Service', 'Avg Monthly Long Distance Charges',
+       'Multiple Lines', 'Internet Service', 'Internet Type',
+       'Avg Monthly GB Download', 'Online Security', 'Online Backup',
+       'Device Protection Plan', 'Premium Tech Support', 'Streaming TV',
+       'Streaming Movies', 'Streaming Music', 'Unlimited Data', 'Contract',
+       'Paperless Billing', 'Payment Method', 'Monthly Charge',
+       'Total Charges', 'Total Refunds', 'Total Extra Data Charges',
+       'Total Long Distance Charges', 'Total Revenue', 'Customer Status',
+       'Cancellation Category'],
+      dtype='object')
+2024-07-03 19:46:51,476 - __main__ - INFO - Dropping the Categorical but Cardinal Columns Completed
+2024-07-03 19:46:51,497 - __main__ - INFO - Binning the Age into 0-20, 21-40, 41-60, 61-80, 81-100 started
+2024-07-03 19:46:51,515 - __main__ - INFO - Binning the Age into 0-20, 21-40, 41-60, 61-80, 81-100 completed
+2024-07-03 19:47:21,889 - __main__ - INFO - [('Zip Code', 'Latitude', 0.8947688809409318), ('Latitude', 'Longitude', -0.8859792467565488), ('Tenure in Months', 'Total Charges', 0.8260735088595952), ('Tenure in Months', 'Total Revenue', 0.8531462752059238), ('Streaming Movies', 'Streaming Music', 0.8485281327010227), ('Total Charges', 'Total Revenue', 0.972212108028604)]
+2024-07-03 19:47:22,126 - __main__ - INFO - Features with correlation to target above the 0.4 threshold
+2024-07-03 19:47:22,160 - __main__ - INFO - Customer Status    1.0
+Name: Customer Status, dtype: float64
+2024-07-03 19:47:22,166 - __main__ - INFO - Exploratory Data Analysis Completed
+2024-07-03 19:47:22,178 - __main__ - INFO - Feature Engineering started
+2024-07-03 19:47:22,203 - __main__ - INFO - split data into X and y started
+2024-07-03 19:47:22,240 - __main__ - INFO - split data into X and y completed
+2024-07-03 19:47:22,257 - __main__ - INFO - Feature Engineering completed
+2024-07-03 19:47:22,318 - __main__ - INFO - Model Training Testing  started
+2024-07-03 19:47:38,495 - __main__ - INFO - Model Training Testing  completed
+2024-07-03 19:47:38,516 - __main__ - INFO - plotting the Models Scores Started
+2024-07-03 19:47:39,065 - __main__ - INFO - plotting the Models Scores Completed
+2024-07-03 19:47:39,087 - __main__ - INFO - Plotting the Training and Testing data Confusion Matrix Started
+2024-07-03 19:47:39,483 - __main__ - INFO - Plotting the Training and Testing data Confusion Matrix Completed
+2024-07-03 19:47:39,504 - __main__ - INFO - Validation random samples Started
+2024-07-03 19:47:56,154 - __main__ - INFO - Validation random samples completed
